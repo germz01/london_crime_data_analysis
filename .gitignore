@@ -1,2 +1,3 @@
 .DS_Store
+.ipynb_checkpoints
 london_crime_by_lsoa.csv
