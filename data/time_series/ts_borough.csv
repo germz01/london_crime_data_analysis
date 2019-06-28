@@ -1,0 +1,3565 @@
+borough,value,date
+Sutton,768,2016-08-01
+Barking and Dagenham,1346,2016-08-01
+Ealing,2342,2016-08-01
+Hackney,2538,2016-08-01
+Bromley,1537,2016-08-01
+Newham,2495,2016-08-01
+Croydon,2523,2016-08-01
+Bexley,994,2016-08-01
+Hounslow,1891,2016-08-01
+Kingston upon Thames,796,2016-08-01
+Southwark,2746,2016-08-01
+Lambeth,3016,2016-08-01
+Haringey,2246,2016-08-01
+Barnet,2043,2016-08-01
+Havering,1327,2016-08-01
+Waltham Forest,1663,2016-08-01
+Brent,2269,2016-08-01
+Westminster,4291,2016-08-01
+Camden,2476,2016-08-01
+Kensington and Chelsea,2398,2016-08-01
+Tower Hamlets,2451,2016-08-01
+Richmond upon Thames,960,2016-08-01
+Hillingdon,1978,2016-08-01
+Lewisham,1991,2016-08-01
+Redbridge,1705,2016-08-01
+Islington,2221,2016-08-01
+Harrow,1022,2016-08-01
+Merton,1122,2016-08-01
+Wandsworth,2021,2016-08-01
+Hammersmith and Fulham,1779,2016-08-01
+Enfield,1773,2016-08-01
+Greenwich,1919,2016-08-01
+City of London,19,2016-08-01
+Sutton,1170,2009-05-01
+Barking and Dagenham,1551,2009-05-01
+Ealing,2473,2009-05-01
+Hackney,1817,2009-05-01
+Bromley,2147,2009-05-01
+Newham,2385,2009-05-01
+Croydon,2542,2009-05-01
+Bexley,1307,2009-05-01
+Hounslow,1745,2009-05-01
+Kingston upon Thames,891,2009-05-01
+Southwark,2698,2009-05-01
+Lambeth,2798,2009-05-01
+Haringey,2090,2009-05-01
+Barnet,2043,2009-05-01
+Havering,1319,2009-05-01
+Waltham Forest,2063,2009-05-01
+Brent,2106,2009-05-01
+Westminster,4344,2009-05-01
+Camden,2679,2009-05-01
+Kensington and Chelsea,1599,2009-05-01
+Tower Hamlets,1956,2009-05-01
+Richmond upon Thames,1021,2009-05-01
+Hillingdon,2108,2009-05-01
+Lewisham,2137,2009-05-01
+Redbridge,1829,2009-05-01
+Islington,2210,2009-05-01
+Harrow,1220,2009-05-01
+Merton,1241,2009-05-01
+Wandsworth,2097,2009-05-01
+Hammersmith and Fulham,1805,2009-05-01
+Enfield,1713,2009-05-01
+Greenwich,1793,2009-05-01
+City of London,0,2009-05-01
+Sutton,824,2012-01-01
+Barking and Dagenham,1437,2012-01-01
+Ealing,2531,2012-01-01
+Hackney,2184,2012-01-01
+Bromley,1731,2012-01-01
+Newham,2299,2012-01-01
+Croydon,2970,2012-01-01
+Bexley,921,2012-01-01
+Hounslow,2134,2012-01-01
+Kingston upon Thames,878,2012-01-01
+Southwark,2558,2012-01-01
+Lambeth,3154,2012-01-01
+Haringey,2066,2012-01-01
+Barnet,1852,2012-01-01
+Havering,1324,2012-01-01
+Waltham Forest,1657,2012-01-01
+Brent,2488,2012-01-01
+Westminster,5084,2012-01-01
+Camden,2617,2012-01-01
+Kensington and Chelsea,1679,2012-01-01
+Tower Hamlets,2167,2012-01-01
+Richmond upon Thames,889,2012-01-01
+Hillingdon,2020,2012-01-01
+Lewisham,2036,2012-01-01
+Redbridge,1905,2012-01-01
+Islington,2002,2012-01-01
+Harrow,1158,2012-01-01
+Merton,1037,2012-01-01
+Wandsworth,1876,2012-01-01
+Hammersmith and Fulham,1711,2012-01-01
+Enfield,1521,2012-01-01
+Greenwich,1708,2012-01-01
+City of London,18,2012-01-01
+Sutton,760,2013-02-01
+Barking and Dagenham,1423,2013-02-01
+Ealing,2231,2013-02-01
+Hackney,2024,2013-02-01
+Bromley,1529,2013-02-01
+Newham,2091,2013-02-01
+Croydon,2184,2013-02-01
+Bexley,964,2013-02-01
+Hounslow,1536,2013-02-01
+Kingston upon Thames,743,2013-02-01
+Southwark,2414,2013-02-01
+Lambeth,2359,2013-02-01
+Haringey,1483,2013-02-01
+Barnet,1877,2013-02-01
+Havering,1260,2013-02-01
+Waltham Forest,1755,2013-02-01
+Brent,1941,2013-02-01
+Westminster,4431,2013-02-01
+Camden,2320,2013-02-01
+Kensington and Chelsea,1519,2013-02-01
+Tower Hamlets,1939,2013-02-01
+Richmond upon Thames,790,2013-02-01
+Hillingdon,1621,2013-02-01
+Lewisham,1835,2013-02-01
+Redbridge,1682,2013-02-01
+Islington,2054,2013-02-01
+Harrow,975,2013-02-01
+Merton,957,2013-02-01
+Wandsworth,1823,2013-02-01
+Hammersmith and Fulham,1474,2013-02-01
+Enfield,1732,2013-02-01
+Greenwich,1538,2013-02-01
+City of London,7,2013-02-01
+Sutton,904,2016-04-01
+Barking and Dagenham,1339,2016-04-01
+Ealing,2276,2016-04-01
+Hackney,2212,2016-04-01
+Bromley,1530,2016-04-01
+Newham,2347,2016-04-01
+Croydon,2334,2016-04-01
+Bexley,915,2016-04-01
+Hounslow,1743,2016-04-01
+Kingston upon Thames,861,2016-04-01
+Southwark,2572,2016-04-01
+Lambeth,2752,2016-04-01
+Haringey,2184,2016-04-01
+Barnet,2106,2016-04-01
+Havering,1425,2016-04-01
+Waltham Forest,1653,2016-04-01
+Brent,2116,2016-04-01
+Westminster,3736,2016-04-01
+Camden,2254,2016-04-01
+Kensington and Chelsea,1414,2016-04-01
+Tower Hamlets,2323,2016-04-01
+Richmond upon Thames,845,2016-04-01
+Hillingdon,1792,2016-04-01
+Lewisham,1887,2016-04-01
+Redbridge,1630,2016-04-01
+Islington,2122,2016-04-01
+Harrow,1048,2016-04-01
+Merton,1037,2016-04-01
+Wandsworth,1888,2016-04-01
+Hammersmith and Fulham,1689,2016-04-01
+Enfield,1880,2016-04-01
+Greenwich,1808,2016-04-01
+City of London,15,2016-04-01
+Sutton,792,2014-05-01
+Barking and Dagenham,1218,2014-05-01
+Ealing,2060,2014-05-01
+Hackney,2060,2014-05-01
+Bromley,1618,2014-05-01
+Newham,2335,2014-05-01
+Croydon,2156,2014-05-01
+Bexley,917,2014-05-01
+Hounslow,1689,2014-05-01
+Kingston upon Thames,762,2014-05-01
+Southwark,2314,2014-05-01
+Lambeth,2519,2014-05-01
+Haringey,1927,2014-05-01
+Barnet,1934,2014-05-01
+Havering,1270,2014-05-01
+Waltham Forest,1712,2014-05-01
+Brent,2130,2014-05-01
+Westminster,3821,2014-05-01
+Camden,2263,2014-05-01
+Kensington and Chelsea,1440,2014-05-01
+Tower Hamlets,2107,2014-05-01
+Richmond upon Thames,904,2014-05-01
+Hillingdon,2008,2014-05-01
+Lewisham,1738,2014-05-01
+Redbridge,1607,2014-05-01
+Islington,2013,2014-05-01
+Harrow,974,2014-05-01
+Merton,1026,2014-05-01
+Wandsworth,1723,2014-05-01
+Hammersmith and Fulham,1737,2014-05-01
+Enfield,1892,2014-05-01
+Greenwich,1648,2014-05-01
+City of London,13,2014-05-01
+Sutton,1151,2008-05-01
+Barking and Dagenham,1460,2008-05-01
+Ealing,2457,2008-05-01
+Hackney,1976,2008-05-01
+Bromley,2027,2008-05-01
+Newham,2582,2008-05-01
+Croydon,2501,2008-05-01
+Bexley,1280,2008-05-01
+Hounslow,1695,2008-05-01
+Kingston upon Thames,945,2008-05-01
+Southwark,2867,2008-05-01
+Lambeth,2650,2008-05-01
+Haringey,2149,2008-05-01
+Barnet,2144,2008-05-01
+Havering,1348,2008-05-01
+Waltham Forest,2135,2008-05-01
+Brent,2026,2008-05-01
+Westminster,3849,2008-05-01
+Camden,2680,2008-05-01
+Kensington and Chelsea,1803,2008-05-01
+Tower Hamlets,2143,2008-05-01
+Richmond upon Thames,896,2008-05-01
+Hillingdon,1807,2008-05-01
+Lewisham,2426,2008-05-01
+Redbridge,1718,2008-05-01
+Islington,2086,2008-05-01
+Harrow,1156,2008-05-01
+Merton,1153,2008-05-01
+Wandsworth,1938,2008-05-01
+Hammersmith and Fulham,1735,2008-05-01
+Enfield,1848,2008-05-01
+Greenwich,1956,2008-05-01
+City of London,0,2008-05-01
+Sutton,845,2015-08-01
+Barking and Dagenham,1338,2015-08-01
+Ealing,2107,2015-08-01
+Hackney,2219,2015-08-01
+Bromley,1707,2015-08-01
+Newham,2359,2015-08-01
+Croydon,2232,2015-08-01
+Bexley,846,2015-08-01
+Hounslow,1725,2015-08-01
+Kingston upon Thames,784,2015-08-01
+Southwark,2531,2015-08-01
+Lambeth,2944,2015-08-01
+Haringey,2071,2015-08-01
+Barnet,1973,2015-08-01
+Havering,1286,2015-08-01
+Waltham Forest,1762,2015-08-01
+Brent,1950,2015-08-01
+Westminster,3944,2015-08-01
+Camden,2251,2015-08-01
+Kensington and Chelsea,1665,2015-08-01
+Tower Hamlets,2315,2015-08-01
+Richmond upon Thames,880,2015-08-01
+Hillingdon,1813,2015-08-01
+Lewisham,1974,2015-08-01
+Redbridge,1430,2015-08-01
+Islington,2141,2015-08-01
+Harrow,1004,2015-08-01
+Merton,1026,2015-08-01
+Wandsworth,1772,2015-08-01
+Hammersmith and Fulham,1560,2015-08-01
+Enfield,1835,2015-08-01
+Greenwich,1751,2015-08-01
+City of London,16,2015-08-01
+Sutton,1009,2012-03-01
+Barking and Dagenham,1557,2012-03-01
+Ealing,2613,2012-03-01
+Hackney,2553,2012-03-01
+Bromley,1755,2012-03-01
+Newham,2875,2012-03-01
+Croydon,2613,2012-03-01
+Bexley,1076,2012-03-01
+Hounslow,2127,2012-03-01
+Kingston upon Thames,906,2012-03-01
+Southwark,2714,2012-03-01
+Lambeth,2995,2012-03-01
+Haringey,2269,2012-03-01
+Barnet,2234,2012-03-01
+Havering,1532,2012-03-01
+Waltham Forest,2012,2012-03-01
+Brent,2424,2012-03-01
+Westminster,5362,2012-03-01
+Camden,2918,2012-03-01
+Kensington and Chelsea,1769,2012-03-01
+Tower Hamlets,2256,2012-03-01
+Richmond upon Thames,998,2012-03-01
+Hillingdon,2073,2012-03-01
+Lewisham,2254,2012-03-01
+Redbridge,1975,2012-03-01
+Islington,2351,2012-03-01
+Harrow,1231,2012-03-01
+Merton,1185,2012-03-01
+Wandsworth,2387,2012-03-01
+Hammersmith and Fulham,1827,2012-03-01
+Enfield,1942,2012-03-01
+Greenwich,1729,2012-03-01
+City of London,16,2012-03-01
+Sutton,905,2011-08-01
+Barking and Dagenham,1490,2011-08-01
+Ealing,2538,2011-08-01
+Hackney,1601,2011-08-01
+Bromley,1655,2011-08-01
+Newham,2321,2011-08-01
+Croydon,2698,2011-08-01
+Bexley,939,2011-08-01
+Hounslow,1616,2011-08-01
+Kingston upon Thames,787,2011-08-01
+Southwark,2499,2011-08-01
+Lambeth,2751,2011-08-01
+Haringey,2076,2011-08-01
+Barnet,1869,2011-08-01
+Havering,1294,2011-08-01
+Waltham Forest,2067,2011-08-01
+Brent,2114,2011-08-01
+Westminster,3852,2011-08-01
+Camden,2621,2011-08-01
+Kensington and Chelsea,1869,2011-08-01
+Tower Hamlets,2061,2011-08-01
+Richmond upon Thames,938,2011-08-01
+Hillingdon,1958,2011-08-01
+Lewisham,2040,2011-08-01
+Redbridge,1755,2011-08-01
+Islington,1889,2011-08-01
+Harrow,1055,2011-08-01
+Merton,1060,2011-08-01
+Wandsworth,1782,2011-08-01
+Hammersmith and Fulham,1808,2011-08-01
+Enfield,1760,2011-08-01
+Greenwich,1449,2011-08-01
+City of London,0,2011-08-01
+Sutton,1133,2008-01-01
+Barking and Dagenham,1615,2008-01-01
+Ealing,2724,2008-01-01
+Hackney,1931,2008-01-01
+Bromley,2097,2008-01-01
+Newham,2876,2008-01-01
+Croydon,2623,2008-01-01
+Bexley,1346,2008-01-01
+Hounslow,1759,2008-01-01
+Kingston upon Thames,920,2008-01-01
+Southwark,2990,2008-01-01
+Lambeth,2740,2008-01-01
+Haringey,2337,2008-01-01
+Barnet,2134,2008-01-01
+Havering,1426,2008-01-01
+Waltham Forest,2047,2008-01-01
+Brent,2136,2008-01-01
+Westminster,3957,2008-01-01
+Camden,2610,2008-01-01
+Kensington and Chelsea,1733,2008-01-01
+Tower Hamlets,2125,2008-01-01
+Richmond upon Thames,956,2008-01-01
+Hillingdon,2268,2008-01-01
+Lewisham,2412,2008-01-01
+Redbridge,1852,2008-01-01
+Islington,2153,2008-01-01
+Harrow,1121,2008-01-01
+Merton,1126,2008-01-01
+Wandsworth,2163,2008-01-01
+Hammersmith and Fulham,1895,2008-01-01
+Enfield,2121,2008-01-01
+Greenwich,2093,2008-01-01
+City of London,0,2008-01-01
+Sutton,789,2013-05-01
+Barking and Dagenham,1297,2013-05-01
+Ealing,2143,2013-05-01
+Hackney,2161,2013-05-01
+Bromley,1509,2013-05-01
+Newham,2142,2013-05-01
+Croydon,2267,2013-05-01
+Bexley,959,2013-05-01
+Hounslow,1641,2013-05-01
+Kingston upon Thames,786,2013-05-01
+Southwark,2447,2013-05-01
+Lambeth,2615,2013-05-01
+Haringey,1602,2013-05-01
+Barnet,1834,2013-05-01
+Havering,1297,2013-05-01
+Waltham Forest,1877,2013-05-01
+Brent,2010,2013-05-01
+Westminster,4309,2013-05-01
+Camden,2444,2013-05-01
+Kensington and Chelsea,1372,2013-05-01
+Tower Hamlets,2393,2013-05-01
+Richmond upon Thames,850,2013-05-01
+Hillingdon,1720,2013-05-01
+Lewisham,1746,2013-05-01
+Redbridge,1664,2013-05-01
+Islington,2034,2013-05-01
+Harrow,1012,2013-05-01
+Merton,985,2013-05-01
+Wandsworth,1917,2013-05-01
+Hammersmith and Fulham,1613,2013-05-01
+Enfield,1824,2013-05-01
+Greenwich,1496,2013-05-01
+City of London,10,2013-05-01
+Sutton,831,2014-01-01
+Barking and Dagenham,1254,2014-01-01
+Ealing,1936,2014-01-01
+Hackney,1977,2014-01-01
+Bromley,1628,2014-01-01
+Newham,2326,2014-01-01
+Croydon,2404,2014-01-01
+Bexley,926,2014-01-01
+Hounslow,1504,2014-01-01
+Kingston upon Thames,673,2014-01-01
+Southwark,2260,2014-01-01
+Lambeth,2726,2014-01-01
+Haringey,1810,2014-01-01
+Barnet,1814,2014-01-01
+Havering,1249,2014-01-01
+Waltham Forest,1726,2014-01-01
+Brent,2055,2014-01-01
+Westminster,4172,2014-01-01
+Camden,2244,2014-01-01
+Kensington and Chelsea,1344,2014-01-01
+Tower Hamlets,1938,2014-01-01
+Richmond upon Thames,899,2014-01-01
+Hillingdon,1716,2014-01-01
+Lewisham,1754,2014-01-01
+Redbridge,1772,2014-01-01
+Islington,2001,2014-01-01
+Harrow,988,2014-01-01
+Merton,901,2014-01-01
+Wandsworth,1727,2014-01-01
+Hammersmith and Fulham,1552,2014-01-01
+Enfield,1825,2014-01-01
+Greenwich,1572,2014-01-01
+City of London,11,2014-01-01
+Sutton,1006,2014-11-01
+Barking and Dagenham,1434,2014-11-01
+Ealing,2113,2014-11-01
+Hackney,2251,2014-11-01
+Bromley,1718,2014-11-01
+Newham,2405,2014-11-01
+Croydon,2449,2014-11-01
+Bexley,1016,2014-11-01
+Hounslow,1757,2014-11-01
+Kingston upon Thames,891,2014-11-01
+Southwark,2611,2014-11-01
+Lambeth,2708,2014-11-01
+Haringey,1994,2014-11-01
+Barnet,1958,2014-11-01
+Havering,1242,2014-11-01
+Waltham Forest,1707,2014-11-01
+Brent,2034,2014-11-01
+Westminster,3973,2014-11-01
+Camden,2495,2014-11-01
+Kensington and Chelsea,1511,2014-11-01
+Tower Hamlets,2308,2014-11-01
+Richmond upon Thames,955,2014-11-01
+Hillingdon,2099,2014-11-01
+Lewisham,1709,2014-11-01
+Redbridge,1714,2014-11-01
+Islington,2225,2014-11-01
+Harrow,1063,2014-11-01
+Merton,1107,2014-11-01
+Wandsworth,1923,2014-11-01
+Hammersmith and Fulham,1820,2014-11-01
+Enfield,1822,2014-11-01
+Greenwich,1672,2014-11-01
+City of London,14,2014-11-01
+Sutton,938,2015-10-01
+Barking and Dagenham,1329,2015-10-01
+Ealing,2281,2015-10-01
+Hackney,2310,2015-10-01
+Bromley,1744,2015-10-01
+Newham,2617,2015-10-01
+Croydon,2270,2015-10-01
+Bexley,1162,2015-10-01
+Hounslow,1885,2015-10-01
+Kingston upon Thames,838,2015-10-01
+Southwark,2550,2015-10-01
+Lambeth,2978,2015-10-01
+Haringey,2176,2015-10-01
+Barnet,2198,2015-10-01
+Havering,1485,2015-10-01
+Waltham Forest,1771,2015-10-01
+Brent,2336,2015-10-01
+Westminster,4179,2015-10-01
+Camden,2578,2015-10-01
+Kensington and Chelsea,1715,2015-10-01
+Tower Hamlets,2400,2015-10-01
+Richmond upon Thames,913,2015-10-01
+Hillingdon,2081,2015-10-01
+Lewisham,2015,2015-10-01
+Redbridge,1644,2015-10-01
+Islington,2302,2015-10-01
+Harrow,1161,2015-10-01
+Merton,1076,2015-10-01
+Wandsworth,1970,2015-10-01
+Hammersmith and Fulham,1791,2015-10-01
+Enfield,1894,2015-10-01
+Greenwich,1765,2015-10-01
+City of London,9,2015-10-01
+Sutton,863,2011-11-01
+Barking and Dagenham,1405,2011-11-01
+Ealing,2428,2011-11-01
+Hackney,2267,2011-11-01
+Bromley,1707,2011-11-01
+Newham,2408,2011-11-01
+Croydon,2505,2011-11-01
+Bexley,966,2011-11-01
+Hounslow,2036,2011-11-01
+Kingston upon Thames,911,2011-11-01
+Southwark,2747,2011-11-01
+Lambeth,2949,2011-11-01
+Haringey,2105,2011-11-01
+Barnet,2051,2011-11-01
+Havering,1310,2011-11-01
+Waltham Forest,1938,2011-11-01
+Brent,2486,2011-11-01
+Westminster,5277,2011-11-01
+Camden,2981,2011-11-01
+Kensington and Chelsea,1729,2011-11-01
+Tower Hamlets,2183,2011-11-01
+Richmond upon Thames,893,2011-11-01
+Hillingdon,2002,2011-11-01
+Lewisham,2043,2011-11-01
+Redbridge,2008,2011-11-01
+Islington,2361,2011-11-01
+Harrow,1095,2011-11-01
+Merton,1155,2011-11-01
+Wandsworth,1862,2011-11-01
+Hammersmith and Fulham,1893,2011-11-01
+Enfield,1771,2011-11-01
+Greenwich,1763,2011-11-01
+City of London,21,2011-11-01
+Sutton,1016,2011-05-01
+Barking and Dagenham,1483,2011-05-01
+Ealing,2701,2011-05-01
+Hackney,1726,2011-05-01
+Bromley,1648,2011-05-01
+Newham,2427,2011-05-01
+Croydon,2537,2011-05-01
+Bexley,1102,2011-05-01
+Hounslow,1840,2011-05-01
+Kingston upon Thames,784,2011-05-01
+Southwark,2658,2011-05-01
+Lambeth,2771,2011-05-01
+Haringey,1872,2011-05-01
+Barnet,2076,2011-05-01
+Havering,1354,2011-05-01
+Waltham Forest,2155,2011-05-01
+Brent,2431,2011-05-01
+Westminster,4359,2011-05-01
+Camden,3054,2011-05-01
+Kensington and Chelsea,1799,2011-05-01
+Tower Hamlets,2145,2011-05-01
+Richmond upon Thames,968,2011-05-01
+Hillingdon,2052,2011-05-01
+Lewisham,2045,2011-05-01
+Redbridge,1870,2011-05-01
+Islington,2216,2011-05-01
+Harrow,1209,2011-05-01
+Merton,1124,2011-05-01
+Wandsworth,1911,2011-05-01
+Hammersmith and Fulham,1966,2011-05-01
+Enfield,1833,2011-05-01
+Greenwich,1498,2011-05-01
+City of London,0,2011-05-01
+Sutton,776,2014-04-01
+Barking and Dagenham,1183,2014-04-01
+Ealing,1918,2014-04-01
+Hackney,1960,2014-04-01
+Bromley,1542,2014-04-01
+Newham,2250,2014-04-01
+Croydon,2042,2014-04-01
+Bexley,1026,2014-04-01
+Hounslow,1628,2014-04-01
+Kingston upon Thames,699,2014-04-01
+Southwark,2208,2014-04-01
+Lambeth,2479,2014-04-01
+Haringey,1719,2014-04-01
+Barnet,1890,2014-04-01
+Havering,1256,2014-04-01
+Waltham Forest,1648,2014-04-01
+Brent,1959,2014-04-01
+Westminster,3684,2014-04-01
+Camden,2111,2014-04-01
+Kensington and Chelsea,1446,2014-04-01
+Tower Hamlets,1952,2014-04-01
+Richmond upon Thames,827,2014-04-01
+Hillingdon,1889,2014-04-01
+Lewisham,1708,2014-04-01
+Redbridge,1487,2014-04-01
+Islington,1985,2014-04-01
+Harrow,933,2014-04-01
+Merton,853,2014-04-01
+Wandsworth,1613,2014-04-01
+Hammersmith and Fulham,1541,2014-04-01
+Enfield,1682,2014-04-01
+Greenwich,1565,2014-04-01
+City of London,8,2014-04-01
+Sutton,812,2015-07-01
+Barking and Dagenham,1494,2015-07-01
+Ealing,2326,2015-07-01
+Hackney,2429,2015-07-01
+Bromley,1777,2015-07-01
+Newham,2616,2015-07-01
+Croydon,2376,2015-07-01
+Bexley,990,2015-07-01
+Hounslow,1929,2015-07-01
+Kingston upon Thames,841,2015-07-01
+Southwark,2592,2015-07-01
+Lambeth,2957,2015-07-01
+Haringey,2213,2015-07-01
+Barnet,2127,2015-07-01
+Havering,1437,2015-07-01
+Waltham Forest,1887,2015-07-01
+Brent,2001,2015-07-01
+Westminster,3933,2015-07-01
+Camden,2492,2015-07-01
+Kensington and Chelsea,1601,2015-07-01
+Tower Hamlets,2597,2015-07-01
+Richmond upon Thames,850,2015-07-01
+Hillingdon,1914,2015-07-01
+Lewisham,2048,2015-07-01
+Redbridge,1603,2015-07-01
+Islington,2297,2015-07-01
+Harrow,936,2015-07-01
+Merton,1118,2015-07-01
+Wandsworth,1888,2015-07-01
+Hammersmith and Fulham,1686,2015-07-01
+Enfield,1985,2015-07-01
+Greenwich,1838,2015-07-01
+City of London,16,2015-07-01
+Sutton,926,2009-10-01
+Barking and Dagenham,1433,2009-10-01
+Ealing,2479,2009-10-01
+Hackney,1727,2009-10-01
+Bromley,1720,2009-10-01
+Newham,2538,2009-10-01
+Croydon,2423,2009-10-01
+Bexley,1202,2009-10-01
+Hounslow,1784,2009-10-01
+Kingston upon Thames,823,2009-10-01
+Southwark,2711,2009-10-01
+Lambeth,2727,2009-10-01
+Haringey,1895,2009-10-01
+Barnet,2047,2009-10-01
+Havering,1277,2009-10-01
+Waltham Forest,2062,2009-10-01
+Brent,2220,2009-10-01
+Westminster,4220,2009-10-01
+Camden,2898,2009-10-01
+Kensington and Chelsea,1656,2009-10-01
+Tower Hamlets,1965,2009-10-01
+Richmond upon Thames,847,2009-10-01
+Hillingdon,2051,2009-10-01
+Lewisham,2115,2009-10-01
+Redbridge,1775,2009-10-01
+Islington,2232,2009-10-01
+Harrow,1232,2009-10-01
+Merton,1128,2009-10-01
+Wandsworth,1865,2009-10-01
+Hammersmith and Fulham,1891,2009-10-01
+Enfield,1804,2009-10-01
+Greenwich,1503,2009-10-01
+City of London,0,2009-10-01
+Sutton,953,2014-12-01
+Barking and Dagenham,1241,2014-12-01
+Ealing,2130,2014-12-01
+Hackney,2007,2014-12-01
+Bromley,1694,2014-12-01
+Newham,2357,2014-12-01
+Croydon,2472,2014-12-01
+Bexley,1016,2014-12-01
+Hounslow,1749,2014-12-01
+Kingston upon Thames,837,2014-12-01
+Southwark,2305,2014-12-01
+Lambeth,2556,2014-12-01
+Haringey,1835,2014-12-01
+Barnet,1904,2014-12-01
+Havering,1298,2014-12-01
+Waltham Forest,1574,2014-12-01
+Brent,1900,2014-12-01
+Westminster,4314,2014-12-01
+Camden,2426,2014-12-01
+Kensington and Chelsea,1594,2014-12-01
+Tower Hamlets,2159,2014-12-01
+Richmond upon Thames,831,2014-12-01
+Hillingdon,1866,2014-12-01
+Lewisham,1802,2014-12-01
+Redbridge,1691,2014-12-01
+Islington,2178,2014-12-01
+Harrow,938,2014-12-01
+Merton,1054,2014-12-01
+Wandsworth,1809,2014-12-01
+Hammersmith and Fulham,1678,2014-12-01
+Enfield,1783,2014-12-01
+Greenwich,1595,2014-12-01
+City of London,19,2014-12-01
+Sutton,1021,2008-02-01
+Barking and Dagenham,1580,2008-02-01
+Ealing,2679,2008-02-01
+Hackney,1873,2008-02-01
+Bromley,1988,2008-02-01
+Newham,2510,2008-02-01
+Croydon,2390,2008-02-01
+Bexley,1296,2008-02-01
+Hounslow,1804,2008-02-01
+Kingston upon Thames,908,2008-02-01
+Southwark,2875,2008-02-01
+Lambeth,2720,2008-02-01
+Haringey,2228,2008-02-01
+Barnet,1861,2008-02-01
+Havering,1394,2008-02-01
+Waltham Forest,1983,2008-02-01
+Brent,1895,2008-02-01
+Westminster,3880,2008-02-01
+Camden,2608,2008-02-01
+Kensington and Chelsea,1607,2008-02-01
+Tower Hamlets,2010,2008-02-01
+Richmond upon Thames,972,2008-02-01
+Hillingdon,2079,2008-02-01
+Lewisham,2323,2008-02-01
+Redbridge,1739,2008-02-01
+Islington,2359,2008-02-01
+Harrow,1126,2008-02-01
+Merton,1172,2008-02-01
+Wandsworth,2111,2008-02-01
+Hammersmith and Fulham,1779,2008-02-01
+Enfield,1956,2008-02-01
+Greenwich,1900,2008-02-01
+City of London,0,2008-02-01
+Sutton,834,2014-09-01
+Barking and Dagenham,1335,2014-09-01
+Ealing,2084,2014-09-01
+Hackney,2072,2014-09-01
+Bromley,1572,2014-09-01
+Newham,2315,2014-09-01
+Croydon,2311,2014-09-01
+Bexley,925,2014-09-01
+Hounslow,1609,2014-09-01
+Kingston upon Thames,840,2014-09-01
+Southwark,2580,2014-09-01
+Lambeth,2761,2014-09-01
+Haringey,1987,2014-09-01
+Barnet,1823,2014-09-01
+Havering,1180,2014-09-01
+Waltham Forest,1649,2014-09-01
+Brent,2039,2014-09-01
+Westminster,3787,2014-09-01
+Camden,2239,2014-09-01
+Kensington and Chelsea,1387,2014-09-01
+Tower Hamlets,2220,2014-09-01
+Richmond upon Thames,916,2014-09-01
+Hillingdon,1879,2014-09-01
+Lewisham,1840,2014-09-01
+Redbridge,1487,2014-09-01
+Islington,2169,2014-09-01
+Harrow,976,2014-09-01
+Merton,1017,2014-09-01
+Wandsworth,1900,2014-09-01
+Hammersmith and Fulham,1584,2014-09-01
+Enfield,1816,2014-09-01
+Greenwich,1789,2014-09-01
+City of London,11,2014-09-01
+Sutton,1085,2008-12-01
+Barking and Dagenham,1365,2008-12-01
+Ealing,2112,2008-12-01
+Hackney,1453,2008-12-01
+Bromley,2095,2008-12-01
+Newham,2234,2008-12-01
+Croydon,2452,2008-12-01
+Bexley,1227,2008-12-01
+Hounslow,1493,2008-12-01
+Kingston upon Thames,892,2008-12-01
+Southwark,2209,2008-12-01
+Lambeth,2493,2008-12-01
+Haringey,1972,2008-12-01
+Barnet,2033,2008-12-01
+Havering,1167,2008-12-01
+Waltham Forest,1788,2008-12-01
+Brent,1832,2008-12-01
+Westminster,4050,2008-12-01
+Camden,2497,2008-12-01
+Kensington and Chelsea,1490,2008-12-01
+Tower Hamlets,1416,2008-12-01
+Richmond upon Thames,966,2008-12-01
+Hillingdon,2037,2008-12-01
+Lewisham,1997,2008-12-01
+Redbridge,1679,2008-12-01
+Islington,2044,2008-12-01
+Harrow,1226,2008-12-01
+Merton,1068,2008-12-01
+Wandsworth,1878,2008-12-01
+Hammersmith and Fulham,1692,2008-12-01
+Enfield,1767,2008-12-01
+Greenwich,1779,2008-12-01
+City of London,0,2008-12-01
+Sutton,895,2012-04-01
+Barking and Dagenham,1264,2012-04-01
+Ealing,2212,2012-04-01
+Hackney,2234,2012-04-01
+Bromley,1436,2012-04-01
+Newham,2339,2012-04-01
+Croydon,2402,2012-04-01
+Bexley,938,2012-04-01
+Hounslow,1879,2012-04-01
+Kingston upon Thames,797,2012-04-01
+Southwark,2234,2012-04-01
+Lambeth,2736,2012-04-01
+Haringey,1869,2012-04-01
+Barnet,1932,2012-04-01
+Havering,1270,2012-04-01
+Waltham Forest,1898,2012-04-01
+Brent,2071,2012-04-01
+Westminster,4623,2012-04-01
+Camden,2598,2012-04-01
+Kensington and Chelsea,1604,2012-04-01
+Tower Hamlets,2065,2012-04-01
+Richmond upon Thames,905,2012-04-01
+Hillingdon,1868,2012-04-01
+Lewisham,1829,2012-04-01
+Redbridge,1654,2012-04-01
+Islington,2213,2012-04-01
+Harrow,1004,2012-04-01
+Merton,1012,2012-04-01
+Wandsworth,1965,2012-04-01
+Hammersmith and Fulham,1785,2012-04-01
+Enfield,1686,2012-04-01
+Greenwich,1576,2012-04-01
+City of London,8,2012-04-01
+Sutton,943,2012-05-01
+Barking and Dagenham,1371,2012-05-01
+Ealing,2539,2012-05-01
+Hackney,2374,2012-05-01
+Bromley,1637,2012-05-01
+Newham,2549,2012-05-01
+Croydon,2621,2012-05-01
+Bexley,1103,2012-05-01
+Hounslow,1940,2012-05-01
+Kingston upon Thames,804,2012-05-01
+Southwark,2731,2012-05-01
+Lambeth,2745,2012-05-01
+Haringey,2149,2012-05-01
+Barnet,1966,2012-05-01
+Havering,1353,2012-05-01
+Waltham Forest,2043,2012-05-01
+Brent,2257,2012-05-01
+Westminster,5104,2012-05-01
+Camden,2970,2012-05-01
+Kensington and Chelsea,1676,2012-05-01
+Tower Hamlets,2193,2012-05-01
+Richmond upon Thames,1134,2012-05-01
+Hillingdon,1898,2012-05-01
+Lewisham,2023,2012-05-01
+Redbridge,1852,2012-05-01
+Islington,2365,2012-05-01
+Harrow,1095,2012-05-01
+Merton,1151,2012-05-01
+Wandsworth,2110,2012-05-01
+Hammersmith and Fulham,1903,2012-05-01
+Enfield,1919,2012-05-01
+Greenwich,1817,2012-05-01
+City of London,9,2012-05-01
+Sutton,973,2010-08-01
+Barking and Dagenham,1472,2010-08-01
+Ealing,2585,2010-08-01
+Hackney,1678,2010-08-01
+Bromley,1558,2010-08-01
+Newham,2532,2010-08-01
+Croydon,2372,2010-08-01
+Bexley,1112,2010-08-01
+Hounslow,1669,2010-08-01
+Kingston upon Thames,779,2010-08-01
+Southwark,2830,2010-08-01
+Lambeth,2559,2010-08-01
+Haringey,1736,2010-08-01
+Barnet,1881,2010-08-01
+Havering,1173,2010-08-01
+Waltham Forest,2067,2010-08-01
+Brent,2183,2010-08-01
+Westminster,4089,2010-08-01
+Camden,2529,2010-08-01
+Kensington and Chelsea,1964,2010-08-01
+Tower Hamlets,2113,2010-08-01
+Richmond upon Thames,854,2010-08-01
+Hillingdon,1796,2010-08-01
+Lewisham,1991,2010-08-01
+Redbridge,1646,2010-08-01
+Islington,1959,2010-08-01
+Harrow,1108,2010-08-01
+Merton,1114,2010-08-01
+Wandsworth,1820,2010-08-01
+Hammersmith and Fulham,1809,2010-08-01
+Enfield,1518,2010-08-01
+Greenwich,1571,2010-08-01
+City of London,0,2010-08-01
+Sutton,963,2011-06-01
+Barking and Dagenham,1409,2011-06-01
+Ealing,2561,2011-06-01
+Hackney,1673,2011-06-01
+Bromley,1650,2011-06-01
+Newham,2384,2011-06-01
+Croydon,2541,2011-06-01
+Bexley,922,2011-06-01
+Hounslow,1724,2011-06-01
+Kingston upon Thames,828,2011-06-01
+Southwark,2550,2011-06-01
+Lambeth,2755,2011-06-01
+Haringey,2124,2011-06-01
+Barnet,2134,2011-06-01
+Havering,1264,2011-06-01
+Waltham Forest,2048,2011-06-01
+Brent,2388,2011-06-01
+Westminster,4606,2011-06-01
+Camden,3099,2011-06-01
+Kensington and Chelsea,1551,2011-06-01
+Tower Hamlets,2215,2011-06-01
+Richmond upon Thames,939,2011-06-01
+Hillingdon,1964,2011-06-01
+Lewisham,1962,2011-06-01
+Redbridge,1749,2011-06-01
+Islington,2253,2011-06-01
+Harrow,1084,2011-06-01
+Merton,1167,2011-06-01
+Wandsworth,1904,2011-06-01
+Hammersmith and Fulham,1930,2011-06-01
+Enfield,1892,2011-06-01
+Greenwich,1589,2011-06-01
+City of London,0,2011-06-01
+Sutton,1068,2008-11-01
+Barking and Dagenham,1425,2008-11-01
+Ealing,2383,2008-11-01
+Hackney,1635,2008-11-01
+Bromley,2101,2008-11-01
+Newham,2434,2008-11-01
+Croydon,2478,2008-11-01
+Bexley,1373,2008-11-01
+Hounslow,1699,2008-11-01
+Kingston upon Thames,885,2008-11-01
+Southwark,2611,2008-11-01
+Lambeth,2599,2008-11-01
+Haringey,2063,2008-11-01
+Barnet,2050,2008-11-01
+Havering,1256,2008-11-01
+Waltham Forest,1883,2008-11-01
+Brent,2107,2008-11-01
+Westminster,4256,2008-11-01
+Camden,2774,2008-11-01
+Kensington and Chelsea,1581,2008-11-01
+Tower Hamlets,1673,2008-11-01
+Richmond upon Thames,978,2008-11-01
+Hillingdon,2145,2008-11-01
+Lewisham,2258,2008-11-01
+Redbridge,1780,2008-11-01
+Islington,2354,2008-11-01
+Harrow,1176,2008-11-01
+Merton,1195,2008-11-01
+Wandsworth,1804,2008-11-01
+Hammersmith and Fulham,1837,2008-11-01
+Enfield,1747,2008-11-01
+Greenwich,1787,2008-11-01
+City of London,0,2008-11-01
+Sutton,1088,2009-01-01
+Barking and Dagenham,1493,2009-01-01
+Ealing,2296,2009-01-01
+Hackney,1698,2009-01-01
+Bromley,2076,2009-01-01
+Newham,2252,2009-01-01
+Croydon,2410,2009-01-01
+Bexley,1205,2009-01-01
+Hounslow,1584,2009-01-01
+Kingston upon Thames,774,2009-01-01
+Southwark,2461,2009-01-01
+Lambeth,2408,2009-01-01
+Haringey,1873,2009-01-01
+Barnet,2025,2009-01-01
+Havering,1191,2009-01-01
+Waltham Forest,2071,2009-01-01
+Brent,1986,2009-01-01
+Westminster,4080,2009-01-01
+Camden,2579,2009-01-01
+Kensington and Chelsea,1467,2009-01-01
+Tower Hamlets,1546,2009-01-01
+Richmond upon Thames,870,2009-01-01
+Hillingdon,2210,2009-01-01
+Lewisham,2112,2009-01-01
+Redbridge,1788,2009-01-01
+Islington,2095,2009-01-01
+Harrow,1089,2009-01-01
+Merton,1124,2009-01-01
+Wandsworth,1905,2009-01-01
+Hammersmith and Fulham,1824,2009-01-01
+Enfield,1763,2009-01-01
+Greenwich,1799,2009-01-01
+City of London,0,2009-01-01
+Sutton,876,2015-12-01
+Barking and Dagenham,1410,2015-12-01
+Ealing,2261,2015-12-01
+Hackney,2116,2015-12-01
+Bromley,1720,2015-12-01
+Newham,2360,2015-12-01
+Croydon,2232,2015-12-01
+Bexley,1031,2015-12-01
+Hounslow,1837,2015-12-01
+Kingston upon Thames,895,2015-12-01
+Southwark,2543,2015-12-01
+Lambeth,2733,2015-12-01
+Haringey,2161,2015-12-01
+Barnet,2072,2015-12-01
+Havering,1444,2015-12-01
+Waltham Forest,1858,2015-12-01
+Brent,2145,2015-12-01
+Westminster,4414,2015-12-01
+Camden,2399,2015-12-01
+Kensington and Chelsea,1663,2015-12-01
+Tower Hamlets,2400,2015-12-01
+Richmond upon Thames,850,2015-12-01
+Hillingdon,2020,2015-12-01
+Lewisham,2016,2015-12-01
+Redbridge,1672,2015-12-01
+Islington,2332,2015-12-01
+Harrow,1139,2015-12-01
+Merton,1041,2015-12-01
+Wandsworth,1810,2015-12-01
+Hammersmith and Fulham,1695,2015-12-01
+Enfield,1939,2015-12-01
+Greenwich,1749,2015-12-01
+City of London,7,2015-12-01
+Sutton,1128,2009-03-01
+Barking and Dagenham,1712,2009-03-01
+Ealing,2535,2009-03-01
+Hackney,1899,2009-03-01
+Bromley,1945,2009-03-01
+Newham,2528,2009-03-01
+Croydon,2620,2009-03-01
+Bexley,1322,2009-03-01
+Hounslow,1718,2009-03-01
+Kingston upon Thames,940,2009-03-01
+Southwark,2620,2009-03-01
+Lambeth,2660,2009-03-01
+Haringey,2120,2009-03-01
+Barnet,2009,2009-03-01
+Havering,1317,2009-03-01
+Waltham Forest,2191,2009-03-01
+Brent,2164,2009-03-01
+Westminster,4029,2009-03-01
+Camden,2848,2009-03-01
+Kensington and Chelsea,1548,2009-03-01
+Tower Hamlets,1988,2009-03-01
+Richmond upon Thames,973,2009-03-01
+Hillingdon,2286,2009-03-01
+Lewisham,2347,2009-03-01
+Redbridge,1885,2009-03-01
+Islington,2238,2009-03-01
+Harrow,1236,2009-03-01
+Merton,1162,2009-03-01
+Wandsworth,2009,2009-03-01
+Hammersmith and Fulham,1860,2009-03-01
+Enfield,1881,2009-03-01
+Greenwich,1764,2009-03-01
+City of London,0,2009-03-01
+Sutton,960,2016-11-01
+Barking and Dagenham,1316,2016-11-01
+Ealing,2125,2016-11-01
+Hackney,2301,2016-11-01
+Bromley,1755,2016-11-01
+Newham,2695,2016-11-01
+Croydon,2288,2016-11-01
+Bexley,1152,2016-11-01
+Hounslow,1904,2016-11-01
+Kingston upon Thames,804,2016-11-01
+Southwark,2528,2016-11-01
+Lambeth,2685,2016-11-01
+Haringey,2295,2016-11-01
+Barnet,2032,2016-11-01
+Havering,1403,2016-11-01
+Waltham Forest,1719,2016-11-01
+Brent,2158,2016-11-01
+Westminster,4275,2016-11-01
+Camden,2419,2016-11-01
+Kensington and Chelsea,1512,2016-11-01
+Tower Hamlets,2501,2016-11-01
+Richmond upon Thames,906,2016-11-01
+Hillingdon,2007,2016-11-01
+Lewisham,1940,2016-11-01
+Redbridge,1615,2016-11-01
+Islington,2239,2016-11-01
+Harrow,1110,2016-11-01
+Merton,1087,2016-11-01
+Wandsworth,1904,2016-11-01
+Hammersmith and Fulham,1576,2016-11-01
+Enfield,1960,2016-11-01
+Greenwich,1881,2016-11-01
+City of London,12,2016-11-01
+Sutton,1056,2008-03-01
+Barking and Dagenham,1417,2008-03-01
+Ealing,2345,2008-03-01
+Hackney,1857,2008-03-01
+Bromley,1923,2008-03-01
+Newham,2492,2008-03-01
+Croydon,2394,2008-03-01
+Bexley,1342,2008-03-01
+Hounslow,1624,2008-03-01
+Kingston upon Thames,985,2008-03-01
+Southwark,2703,2008-03-01
+Lambeth,2586,2008-03-01
+Haringey,2218,2008-03-01
+Barnet,1992,2008-03-01
+Havering,1252,2008-03-01
+Waltham Forest,1981,2008-03-01
+Brent,1946,2008-03-01
+Westminster,3896,2008-03-01
+Camden,2720,2008-03-01
+Kensington and Chelsea,1745,2008-03-01
+Tower Hamlets,2129,2008-03-01
+Richmond upon Thames,897,2008-03-01
+Hillingdon,2063,2008-03-01
+Lewisham,2115,2008-03-01
+Redbridge,1760,2008-03-01
+Islington,2201,2008-03-01
+Harrow,1125,2008-03-01
+Merton,1124,2008-03-01
+Wandsworth,2010,2008-03-01
+Hammersmith and Fulham,1627,2008-03-01
+Enfield,1920,2008-03-01
+Greenwich,1898,2008-03-01
+City of London,0,2008-03-01
+Sutton,1042,2009-07-01
+Barking and Dagenham,1519,2009-07-01
+Ealing,2480,2009-07-01
+Hackney,1835,2009-07-01
+Bromley,2019,2009-07-01
+Newham,2450,2009-07-01
+Croydon,2541,2009-07-01
+Bexley,1289,2009-07-01
+Hounslow,1686,2009-07-01
+Kingston upon Thames,862,2009-07-01
+Southwark,2680,2009-07-01
+Lambeth,2794,2009-07-01
+Haringey,2183,2009-07-01
+Barnet,2074,2009-07-01
+Havering,1165,2009-07-01
+Waltham Forest,2166,2009-07-01
+Brent,2212,2009-07-01
+Westminster,4545,2009-07-01
+Camden,2913,2009-07-01
+Kensington and Chelsea,1640,2009-07-01
+Tower Hamlets,2133,2009-07-01
+Richmond upon Thames,959,2009-07-01
+Hillingdon,2030,2009-07-01
+Lewisham,2233,2009-07-01
+Redbridge,1773,2009-07-01
+Islington,2214,2009-07-01
+Harrow,1207,2009-07-01
+Merton,1176,2009-07-01
+Wandsworth,2147,2009-07-01
+Hammersmith and Fulham,1861,2009-07-01
+Enfield,1736,2009-07-01
+Greenwich,1717,2009-07-01
+City of London,0,2009-07-01
+Sutton,1012,2008-08-01
+Barking and Dagenham,1495,2008-08-01
+Ealing,2253,2008-08-01
+Hackney,1787,2008-08-01
+Bromley,1936,2008-08-01
+Newham,2400,2008-08-01
+Croydon,2421,2008-08-01
+Bexley,1279,2008-08-01
+Hounslow,1678,2008-08-01
+Kingston upon Thames,885,2008-08-01
+Southwark,2957,2008-08-01
+Lambeth,2546,2008-08-01
+Haringey,1999,2008-08-01
+Barnet,1822,2008-08-01
+Havering,1275,2008-08-01
+Waltham Forest,1893,2008-08-01
+Brent,1864,2008-08-01
+Westminster,4193,2008-08-01
+Camden,2520,2008-08-01
+Kensington and Chelsea,2282,2008-08-01
+Tower Hamlets,1953,2008-08-01
+Richmond upon Thames,907,2008-08-01
+Hillingdon,2028,2008-08-01
+Lewisham,2254,2008-08-01
+Redbridge,1515,2008-08-01
+Islington,2013,2008-08-01
+Harrow,1064,2008-08-01
+Merton,1100,2008-08-01
+Wandsworth,1672,2008-08-01
+Hammersmith and Fulham,1716,2008-08-01
+Enfield,1525,2008-08-01
+Greenwich,1715,2008-08-01
+City of London,0,2008-08-01
+Sutton,959,2010-02-01
+Barking and Dagenham,1354,2010-02-01
+Ealing,2399,2010-02-01
+Hackney,1560,2010-02-01
+Bromley,1546,2010-02-01
+Newham,2474,2010-02-01
+Croydon,2340,2010-02-01
+Bexley,1077,2010-02-01
+Hounslow,1427,2010-02-01
+Kingston upon Thames,740,2010-02-01
+Southwark,2392,2010-02-01
+Lambeth,2361,2010-02-01
+Haringey,1666,2010-02-01
+Barnet,1983,2010-02-01
+Havering,1153,2010-02-01
+Waltham Forest,1749,2010-02-01
+Brent,1877,2010-02-01
+Westminster,3701,2010-02-01
+Camden,2488,2010-02-01
+Kensington and Chelsea,1419,2010-02-01
+Tower Hamlets,1662,2010-02-01
+Richmond upon Thames,849,2010-02-01
+Hillingdon,1864,2010-02-01
+Lewisham,1982,2010-02-01
+Redbridge,1557,2010-02-01
+Islington,1804,2010-02-01
+Harrow,1116,2010-02-01
+Merton,1067,2010-02-01
+Wandsworth,1756,2010-02-01
+Hammersmith and Fulham,1533,2010-02-01
+Enfield,1743,2010-02-01
+Greenwich,1471,2010-02-01
+City of London,0,2010-02-01
+Sutton,1017,2008-06-01
+Barking and Dagenham,1489,2008-06-01
+Ealing,2352,2008-06-01
+Hackney,2023,2008-06-01
+Bromley,1911,2008-06-01
+Newham,2507,2008-06-01
+Croydon,2502,2008-06-01
+Bexley,1189,2008-06-01
+Hounslow,1761,2008-06-01
+Kingston upon Thames,870,2008-06-01
+Southwark,3116,2008-06-01
+Lambeth,2766,2008-06-01
+Haringey,2106,2008-06-01
+Barnet,1975,2008-06-01
+Havering,1336,2008-06-01
+Waltham Forest,2197,2008-06-01
+Brent,1917,2008-06-01
+Westminster,3853,2008-06-01
+Camden,2795,2008-06-01
+Kensington and Chelsea,1689,2008-06-01
+Tower Hamlets,1981,2008-06-01
+Richmond upon Thames,892,2008-06-01
+Hillingdon,1958,2008-06-01
+Lewisham,2351,2008-06-01
+Redbridge,1740,2008-06-01
+Islington,2303,2008-06-01
+Harrow,1076,2008-06-01
+Merton,1222,2008-06-01
+Wandsworth,1953,2008-06-01
+Hammersmith and Fulham,1786,2008-06-01
+Enfield,1894,2008-06-01
+Greenwich,1763,2008-06-01
+City of London,0,2008-06-01
+Sutton,914,2016-02-01
+Barking and Dagenham,1371,2016-02-01
+Ealing,1851,2016-02-01
+Hackney,2041,2016-02-01
+Bromley,1647,2016-02-01
+Newham,2308,2016-02-01
+Croydon,2154,2016-02-01
+Bexley,1019,2016-02-01
+Hounslow,1723,2016-02-01
+Kingston upon Thames,801,2016-02-01
+Southwark,2429,2016-02-01
+Lambeth,2581,2016-02-01
+Haringey,2110,2016-02-01
+Barnet,1925,2016-02-01
+Havering,1386,2016-02-01
+Waltham Forest,1696,2016-02-01
+Brent,2057,2016-02-01
+Westminster,3755,2016-02-01
+Camden,2363,2016-02-01
+Kensington and Chelsea,1392,2016-02-01
+Tower Hamlets,2086,2016-02-01
+Richmond upon Thames,809,2016-02-01
+Hillingdon,1904,2016-02-01
+Lewisham,1856,2016-02-01
+Redbridge,1586,2016-02-01
+Islington,2161,2016-02-01
+Harrow,976,2016-02-01
+Merton,1021,2016-02-01
+Wandsworth,1774,2016-02-01
+Hammersmith and Fulham,1587,2016-02-01
+Enfield,1723,2016-02-01
+Greenwich,1681,2016-02-01
+City of London,10,2016-02-01
+Sutton,924,2012-12-01
+Barking and Dagenham,1260,2012-12-01
+Ealing,2226,2012-12-01
+Hackney,2127,2012-12-01
+Bromley,1544,2012-12-01
+Newham,2445,2012-12-01
+Croydon,2371,2012-12-01
+Bexley,952,2012-12-01
+Hounslow,1700,2012-12-01
+Kingston upon Thames,718,2012-12-01
+Southwark,2629,2012-12-01
+Lambeth,2698,2012-12-01
+Haringey,1657,2012-12-01
+Barnet,1903,2012-12-01
+Havering,1383,2012-12-01
+Waltham Forest,1850,2012-12-01
+Brent,2043,2012-12-01
+Westminster,5147,2012-12-01
+Camden,2540,2012-12-01
+Kensington and Chelsea,1566,2012-12-01
+Tower Hamlets,1939,2012-12-01
+Richmond upon Thames,868,2012-12-01
+Hillingdon,1743,2012-12-01
+Lewisham,1920,2012-12-01
+Redbridge,1648,2012-12-01
+Islington,2136,2012-12-01
+Harrow,989,2012-12-01
+Merton,1007,2012-12-01
+Wandsworth,1763,2012-12-01
+Hammersmith and Fulham,1628,2012-12-01
+Enfield,1707,2012-12-01
+Greenwich,1580,2012-12-01
+City of London,7,2012-12-01
+Sutton,1002,2015-06-01
+Barking and Dagenham,1362,2015-06-01
+Ealing,2376,2015-06-01
+Hackney,2458,2015-06-01
+Bromley,1794,2015-06-01
+Newham,2475,2015-06-01
+Croydon,2553,2015-06-01
+Bexley,1033,2015-06-01
+Hounslow,1795,2015-06-01
+Kingston upon Thames,865,2015-06-01
+Southwark,2613,2015-06-01
+Lambeth,2735,2015-06-01
+Haringey,2018,2015-06-01
+Barnet,2056,2015-06-01
+Havering,1386,2015-06-01
+Waltham Forest,1871,2015-06-01
+Brent,2094,2015-06-01
+Westminster,3790,2015-06-01
+Camden,2566,2015-06-01
+Kensington and Chelsea,1591,2015-06-01
+Tower Hamlets,2278,2015-06-01
+Richmond upon Thames,870,2015-06-01
+Hillingdon,2049,2015-06-01
+Lewisham,2042,2015-06-01
+Redbridge,1702,2015-06-01
+Islington,2320,2015-06-01
+Harrow,1005,2015-06-01
+Merton,1022,2015-06-01
+Wandsworth,1914,2015-06-01
+Hammersmith and Fulham,1592,2015-06-01
+Enfield,1778,2015-06-01
+Greenwich,1742,2015-06-01
+City of London,13,2015-06-01
+Sutton,898,2016-09-01
+Barking and Dagenham,1363,2016-09-01
+Ealing,2304,2016-09-01
+Hackney,2423,2016-09-01
+Bromley,1595,2016-09-01
+Newham,2456,2016-09-01
+Croydon,2456,2016-09-01
+Bexley,1106,2016-09-01
+Hounslow,1886,2016-09-01
+Kingston upon Thames,902,2016-09-01
+Southwark,2792,2016-09-01
+Lambeth,2854,2016-09-01
+Haringey,2381,2016-09-01
+Barnet,2110,2016-09-01
+Havering,1364,2016-09-01
+Waltham Forest,1641,2016-09-01
+Brent,2185,2016-09-01
+Westminster,3773,2016-09-01
+Camden,2425,2016-09-01
+Kensington and Chelsea,1709,2016-09-01
+Tower Hamlets,2488,2016-09-01
+Richmond upon Thames,1009,2016-09-01
+Hillingdon,2054,2016-09-01
+Lewisham,1885,2016-09-01
+Redbridge,1599,2016-09-01
+Islington,2099,2016-09-01
+Harrow,1090,2016-09-01
+Merton,1052,2016-09-01
+Wandsworth,2009,2016-09-01
+Hammersmith and Fulham,1630,2016-09-01
+Enfield,1900,2016-09-01
+Greenwich,1955,2016-09-01
+City of London,19,2016-09-01
+Sutton,1016,2010-07-01
+Barking and Dagenham,1545,2010-07-01
+Ealing,2996,2010-07-01
+Hackney,1934,2010-07-01
+Bromley,1638,2010-07-01
+Newham,2624,2010-07-01
+Croydon,2427,2010-07-01
+Bexley,1090,2010-07-01
+Hounslow,1869,2010-07-01
+Kingston upon Thames,844,2010-07-01
+Southwark,2931,2010-07-01
+Lambeth,2836,2010-07-01
+Haringey,2060,2010-07-01
+Barnet,2010,2010-07-01
+Havering,1284,2010-07-01
+Waltham Forest,2294,2010-07-01
+Brent,2380,2010-07-01
+Westminster,4407,2010-07-01
+Camden,2610,2010-07-01
+Kensington and Chelsea,1757,2010-07-01
+Tower Hamlets,2101,2010-07-01
+Richmond upon Thames,1004,2010-07-01
+Hillingdon,2019,2010-07-01
+Lewisham,2143,2010-07-01
+Redbridge,1766,2010-07-01
+Islington,2139,2010-07-01
+Harrow,1246,2010-07-01
+Merton,1219,2010-07-01
+Wandsworth,2185,2010-07-01
+Hammersmith and Fulham,2020,2010-07-01
+Enfield,1799,2010-07-01
+Greenwich,1571,2010-07-01
+City of London,0,2010-07-01
+Sutton,848,2011-01-01
+Barking and Dagenham,1314,2011-01-01
+Ealing,2274,2011-01-01
+Hackney,1546,2011-01-01
+Bromley,1682,2011-01-01
+Newham,2216,2011-01-01
+Croydon,2511,2011-01-01
+Bexley,996,2011-01-01
+Hounslow,1677,2011-01-01
+Kingston upon Thames,722,2011-01-01
+Southwark,2495,2011-01-01
+Lambeth,2672,2011-01-01
+Haringey,1807,2011-01-01
+Barnet,1995,2011-01-01
+Havering,1296,2011-01-01
+Waltham Forest,2046,2011-01-01
+Brent,2142,2011-01-01
+Westminster,4041,2011-01-01
+Camden,2542,2011-01-01
+Kensington and Chelsea,1556,2011-01-01
+Tower Hamlets,1808,2011-01-01
+Richmond upon Thames,855,2011-01-01
+Hillingdon,1967,2011-01-01
+Lewisham,2098,2011-01-01
+Redbridge,1939,2011-01-01
+Islington,2002,2011-01-01
+Harrow,1067,2011-01-01
+Merton,1209,2011-01-01
+Wandsworth,1522,2011-01-01
+Hammersmith and Fulham,1903,2011-01-01
+Enfield,1798,2011-01-01
+Greenwich,1420,2011-01-01
+City of London,0,2011-01-01
+Sutton,1036,2008-07-01
+Barking and Dagenham,1603,2008-07-01
+Ealing,2508,2008-07-01
+Hackney,2013,2008-07-01
+Bromley,2109,2008-07-01
+Newham,2568,2008-07-01
+Croydon,2544,2008-07-01
+Bexley,1259,2008-07-01
+Hounslow,1713,2008-07-01
+Kingston upon Thames,809,2008-07-01
+Southwark,3005,2008-07-01
+Lambeth,2756,2008-07-01
+Haringey,2239,2008-07-01
+Barnet,2029,2008-07-01
+Havering,1284,2008-07-01
+Waltham Forest,2141,2008-07-01
+Brent,1986,2008-07-01
+Westminster,4440,2008-07-01
+Camden,2907,2008-07-01
+Kensington and Chelsea,1767,2008-07-01
+Tower Hamlets,2145,2008-07-01
+Richmond upon Thames,909,2008-07-01
+Hillingdon,1980,2008-07-01
+Lewisham,2340,2008-07-01
+Redbridge,1753,2008-07-01
+Islington,2251,2008-07-01
+Harrow,1163,2008-07-01
+Merton,1277,2008-07-01
+Wandsworth,2042,2008-07-01
+Hammersmith and Fulham,1762,2008-07-01
+Enfield,1859,2008-07-01
+Greenwich,1929,2008-07-01
+City of London,0,2008-07-01
+Sutton,1027,2010-05-01
+Barking and Dagenham,1473,2010-05-01
+Ealing,2894,2010-05-01
+Hackney,1889,2010-05-01
+Bromley,1731,2010-05-01
+Newham,2671,2010-05-01
+Croydon,2448,2010-05-01
+Bexley,1174,2010-05-01
+Hounslow,1719,2010-05-01
+Kingston upon Thames,878,2010-05-01
+Southwark,2725,2010-05-01
+Lambeth,2677,2010-05-01
+Haringey,1955,2010-05-01
+Barnet,1911,2010-05-01
+Havering,1182,2010-05-01
+Waltham Forest,2265,2010-05-01
+Brent,2217,2010-05-01
+Westminster,4038,2010-05-01
+Camden,2874,2010-05-01
+Kensington and Chelsea,1647,2010-05-01
+Tower Hamlets,1993,2010-05-01
+Richmond upon Thames,1026,2010-05-01
+Hillingdon,2038,2010-05-01
+Lewisham,2169,2010-05-01
+Redbridge,1708,2010-05-01
+Islington,2196,2010-05-01
+Harrow,1218,2010-05-01
+Merton,1135,2010-05-01
+Wandsworth,1979,2010-05-01
+Hammersmith and Fulham,1894,2010-05-01
+Enfield,1757,2010-05-01
+Greenwich,1618,2010-05-01
+City of London,0,2010-05-01
+Sutton,912,2009-02-01
+Barking and Dagenham,1495,2009-02-01
+Ealing,2229,2009-02-01
+Hackney,1545,2009-02-01
+Bromley,1760,2009-02-01
+Newham,2096,2009-02-01
+Croydon,2307,2009-02-01
+Bexley,1138,2009-02-01
+Hounslow,1570,2009-02-01
+Kingston upon Thames,784,2009-02-01
+Southwark,2313,2009-02-01
+Lambeth,2214,2009-02-01
+Haringey,1823,2009-02-01
+Barnet,1673,2009-02-01
+Havering,1219,2009-02-01
+Waltham Forest,1776,2009-02-01
+Brent,1839,2009-02-01
+Westminster,3572,2009-02-01
+Camden,2405,2009-02-01
+Kensington and Chelsea,1377,2009-02-01
+Tower Hamlets,1557,2009-02-01
+Richmond upon Thames,876,2009-02-01
+Hillingdon,2059,2009-02-01
+Lewisham,1987,2009-02-01
+Redbridge,1549,2009-02-01
+Islington,2076,2009-02-01
+Harrow,1075,2009-02-01
+Merton,955,2009-02-01
+Wandsworth,1635,2009-02-01
+Hammersmith and Fulham,1548,2009-02-01
+Enfield,1668,2009-02-01
+Greenwich,1674,2009-02-01
+City of London,0,2009-02-01
+Sutton,1039,2008-04-01
+Barking and Dagenham,1522,2008-04-01
+Ealing,2266,2008-04-01
+Hackney,1921,2008-04-01
+Bromley,1869,2008-04-01
+Newham,2290,2008-04-01
+Croydon,2207,2008-04-01
+Bexley,1240,2008-04-01
+Hounslow,1613,2008-04-01
+Kingston upon Thames,876,2008-04-01
+Southwark,2713,2008-04-01
+Lambeth,2448,2008-04-01
+Haringey,2117,2008-04-01
+Barnet,1999,2008-04-01
+Havering,1354,2008-04-01
+Waltham Forest,1976,2008-04-01
+Brent,1797,2008-04-01
+Westminster,3725,2008-04-01
+Camden,2532,2008-04-01
+Kensington and Chelsea,1691,2008-04-01
+Tower Hamlets,2115,2008-04-01
+Richmond upon Thames,877,2008-04-01
+Hillingdon,1816,2008-04-01
+Lewisham,2123,2008-04-01
+Redbridge,1795,2008-04-01
+Islington,2031,2008-04-01
+Harrow,1124,2008-04-01
+Merton,1112,2008-04-01
+Wandsworth,1993,2008-04-01
+Hammersmith and Fulham,1710,2008-04-01
+Enfield,1922,2008-04-01
+Greenwich,1827,2008-04-01
+City of London,0,2008-04-01
+Sutton,1006,2011-03-01
+Barking and Dagenham,1432,2011-03-01
+Ealing,2616,2011-03-01
+Hackney,1639,2011-03-01
+Bromley,1726,2011-03-01
+Newham,2304,2011-03-01
+Croydon,2530,2011-03-01
+Bexley,1040,2011-03-01
+Hounslow,1638,2011-03-01
+Kingston upon Thames,885,2011-03-01
+Southwark,2432,2011-03-01
+Lambeth,2705,2011-03-01
+Haringey,1796,2011-03-01
+Barnet,2103,2011-03-01
+Havering,1380,2011-03-01
+Waltham Forest,2030,2011-03-01
+Brent,2119,2011-03-01
+Westminster,4293,2011-03-01
+Camden,3196,2011-03-01
+Kensington and Chelsea,1652,2011-03-01
+Tower Hamlets,2055,2011-03-01
+Richmond upon Thames,947,2011-03-01
+Hillingdon,2110,2011-03-01
+Lewisham,2148,2011-03-01
+Redbridge,1984,2011-03-01
+Islington,2145,2011-03-01
+Harrow,1091,2011-03-01
+Merton,1216,2011-03-01
+Wandsworth,1791,2011-03-01
+Hammersmith and Fulham,1948,2011-03-01
+Enfield,1755,2011-03-01
+Greenwich,1570,2011-03-01
+City of London,0,2011-03-01
+Sutton,1153,2010-03-01
+Barking and Dagenham,1556,2010-03-01
+Ealing,2746,2010-03-01
+Hackney,1709,2010-03-01
+Bromley,1790,2010-03-01
+Newham,2842,2010-03-01
+Croydon,2620,2010-03-01
+Bexley,1232,2010-03-01
+Hounslow,1681,2010-03-01
+Kingston upon Thames,871,2010-03-01
+Southwark,2894,2010-03-01
+Lambeth,2804,2010-03-01
+Haringey,1877,2010-03-01
+Barnet,2046,2010-03-01
+Havering,1378,2010-03-01
+Waltham Forest,2132,2010-03-01
+Brent,2326,2010-03-01
+Westminster,4166,2010-03-01
+Camden,2796,2010-03-01
+Kensington and Chelsea,1634,2010-03-01
+Tower Hamlets,1857,2010-03-01
+Richmond upon Thames,900,2010-03-01
+Hillingdon,2121,2010-03-01
+Lewisham,2322,2010-03-01
+Redbridge,1947,2010-03-01
+Islington,2301,2010-03-01
+Harrow,1295,2010-03-01
+Merton,1215,2010-03-01
+Wandsworth,1865,2010-03-01
+Hammersmith and Fulham,1833,2010-03-01
+Enfield,1967,2010-03-01
+Greenwich,1753,2010-03-01
+City of London,0,2010-03-01
+Sutton,965,2010-10-01
+Barking and Dagenham,1432,2010-10-01
+Ealing,2653,2010-10-01
+Hackney,1603,2010-10-01
+Bromley,1708,2010-10-01
+Newham,2695,2010-10-01
+Croydon,2455,2010-10-01
+Bexley,1088,2010-10-01
+Hounslow,1737,2010-10-01
+Kingston upon Thames,966,2010-10-01
+Southwark,2671,2010-10-01
+Lambeth,2839,2010-10-01
+Haringey,1960,2010-10-01
+Barnet,2061,2010-10-01
+Havering,1405,2010-10-01
+Waltham Forest,2171,2010-10-01
+Brent,2163,2010-10-01
+Westminster,4195,2010-10-01
+Camden,2806,2010-10-01
+Kensington and Chelsea,1694,2010-10-01
+Tower Hamlets,2183,2010-10-01
+Richmond upon Thames,897,2010-10-01
+Hillingdon,1981,2010-10-01
+Lewisham,2027,2010-10-01
+Redbridge,1889,2010-10-01
+Islington,2271,2010-10-01
+Harrow,1094,2010-10-01
+Merton,1194,2010-10-01
+Wandsworth,2067,2010-10-01
+Hammersmith and Fulham,1889,2010-10-01
+Enfield,1872,2010-10-01
+Greenwich,1482,2010-10-01
+City of London,0,2010-10-01
+Sutton,871,2016-12-01
+Barking and Dagenham,1278,2016-12-01
+Ealing,2306,2016-12-01
+Hackney,2354,2016-12-01
+Bromley,1860,2016-12-01
+Newham,2703,2016-12-01
+Croydon,2387,2016-12-01
+Bexley,1182,2016-12-01
+Hounslow,1799,2016-12-01
+Kingston upon Thames,881,2016-12-01
+Southwark,2603,2016-12-01
+Lambeth,2659,2016-12-01
+Haringey,2394,2016-12-01
+Barnet,1975,2016-12-01
+Havering,1427,2016-12-01
+Waltham Forest,1718,2016-12-01
+Brent,2285,2016-12-01
+Westminster,4751,2016-12-01
+Camden,2628,2016-12-01
+Kensington and Chelsea,1604,2016-12-01
+Tower Hamlets,2405,2016-12-01
+Richmond upon Thames,860,2016-12-01
+Hillingdon,2300,2016-12-01
+Lewisham,1952,2016-12-01
+Redbridge,1560,2016-12-01
+Islington,2325,2016-12-01
+Harrow,1158,2016-12-01
+Merton,993,2016-12-01
+Wandsworth,1913,2016-12-01
+Hammersmith and Fulham,1631,2016-12-01
+Enfield,1779,2016-12-01
+Greenwich,1880,2016-12-01
+City of London,34,2016-12-01
+Sutton,1153,2008-09-01
+Barking and Dagenham,1245,2008-09-01
+Ealing,2247,2008-09-01
+Hackney,1723,2008-09-01
+Bromley,1869,2008-09-01
+Newham,2320,2008-09-01
+Croydon,2486,2008-09-01
+Bexley,1182,2008-09-01
+Hounslow,1681,2008-09-01
+Kingston upon Thames,805,2008-09-01
+Southwark,2634,2008-09-01
+Lambeth,2640,2008-09-01
+Haringey,1987,2008-09-01
+Barnet,1840,2008-09-01
+Havering,1129,2008-09-01
+Waltham Forest,2032,2008-09-01
+Brent,1883,2008-09-01
+Westminster,3557,2008-09-01
+Camden,2519,2008-09-01
+Kensington and Chelsea,1596,2008-09-01
+Tower Hamlets,1927,2008-09-01
+Richmond upon Thames,946,2008-09-01
+Hillingdon,2044,2008-09-01
+Lewisham,2154,2008-09-01
+Redbridge,1639,2008-09-01
+Islington,2111,2008-09-01
+Harrow,1128,2008-09-01
+Merton,1147,2008-09-01
+Wandsworth,1867,2008-09-01
+Hammersmith and Fulham,1674,2008-09-01
+Enfield,1617,2008-09-01
+Greenwich,1632,2008-09-01
+City of London,0,2008-09-01
+Sutton,734,2014-08-01
+Barking and Dagenham,1236,2014-08-01
+Ealing,2038,2014-08-01
+Hackney,2048,2014-08-01
+Bromley,1586,2014-08-01
+Newham,2172,2014-08-01
+Croydon,2229,2014-08-01
+Bexley,938,2014-08-01
+Hounslow,1624,2014-08-01
+Kingston upon Thames,755,2014-08-01
+Southwark,2375,2014-08-01
+Lambeth,2797,2014-08-01
+Haringey,1912,2014-08-01
+Barnet,1854,2014-08-01
+Havering,1283,2014-08-01
+Waltham Forest,1677,2014-08-01
+Brent,1933,2014-08-01
+Westminster,3917,2014-08-01
+Camden,2053,2014-08-01
+Kensington and Chelsea,2007,2014-08-01
+Tower Hamlets,2065,2014-08-01
+Richmond upon Thames,835,2014-08-01
+Hillingdon,1890,2014-08-01
+Lewisham,1640,2014-08-01
+Redbridge,1568,2014-08-01
+Islington,1900,2014-08-01
+Harrow,959,2014-08-01
+Merton,911,2014-08-01
+Wandsworth,1800,2014-08-01
+Hammersmith and Fulham,1607,2014-08-01
+Enfield,1729,2014-08-01
+Greenwich,1560,2014-08-01
+City of London,9,2014-08-01
+Sutton,924,2010-01-01
+Barking and Dagenham,1417,2010-01-01
+Ealing,2229,2010-01-01
+Hackney,1715,2010-01-01
+Bromley,1578,2010-01-01
+Newham,2341,2010-01-01
+Croydon,2393,2010-01-01
+Bexley,1075,2010-01-01
+Hounslow,1439,2010-01-01
+Kingston upon Thames,784,2010-01-01
+Southwark,2321,2010-01-01
+Lambeth,2494,2010-01-01
+Haringey,1738,2010-01-01
+Barnet,1867,2010-01-01
+Havering,1238,2010-01-01
+Waltham Forest,1846,2010-01-01
+Brent,1859,2010-01-01
+Westminster,3826,2010-01-01
+Camden,2441,2010-01-01
+Kensington and Chelsea,1406,2010-01-01
+Tower Hamlets,1583,2010-01-01
+Richmond upon Thames,765,2010-01-01
+Hillingdon,1896,2010-01-01
+Lewisham,1832,2010-01-01
+Redbridge,1587,2010-01-01
+Islington,1798,2010-01-01
+Harrow,1052,2010-01-01
+Merton,1033,2010-01-01
+Wandsworth,1735,2010-01-01
+Hammersmith and Fulham,1556,2010-01-01
+Enfield,1694,2010-01-01
+Greenwich,1472,2010-01-01
+City of London,0,2010-01-01
+Sutton,928,2012-11-01
+Barking and Dagenham,1392,2012-11-01
+Ealing,2518,2012-11-01
+Hackney,2209,2012-11-01
+Bromley,1740,2012-11-01
+Newham,2517,2012-11-01
+Croydon,2675,2012-11-01
+Bexley,947,2012-11-01
+Hounslow,1754,2012-11-01
+Kingston upon Thames,827,2012-11-01
+Southwark,2579,2012-11-01
+Lambeth,2873,2012-11-01
+Haringey,1882,2012-11-01
+Barnet,2264,2012-11-01
+Havering,1371,2012-11-01
+Waltham Forest,1945,2012-11-01
+Brent,2234,2012-11-01
+Westminster,4952,2012-11-01
+Camden,2588,2012-11-01
+Kensington and Chelsea,1525,2012-11-01
+Tower Hamlets,2263,2012-11-01
+Richmond upon Thames,947,2012-11-01
+Hillingdon,1794,2012-11-01
+Lewisham,2030,2012-11-01
+Redbridge,1978,2012-11-01
+Islington,2194,2012-11-01
+Harrow,1069,2012-11-01
+Merton,1146,2012-11-01
+Wandsworth,2126,2012-11-01
+Hammersmith and Fulham,1721,2012-11-01
+Enfield,1856,2012-11-01
+Greenwich,1657,2012-11-01
+City of London,13,2012-11-01
+Sutton,877,2011-02-01
+Barking and Dagenham,1294,2011-02-01
+Ealing,2364,2011-02-01
+Hackney,1386,2011-02-01
+Bromley,1517,2011-02-01
+Newham,2161,2011-02-01
+Croydon,2307,2011-02-01
+Bexley,892,2011-02-01
+Hounslow,1450,2011-02-01
+Kingston upon Thames,817,2011-02-01
+Southwark,2207,2011-02-01
+Lambeth,2491,2011-02-01
+Haringey,1742,2011-02-01
+Barnet,1876,2011-02-01
+Havering,1169,2011-02-01
+Waltham Forest,1938,2011-02-01
+Brent,2088,2011-02-01
+Westminster,3765,2011-02-01
+Camden,2434,2011-02-01
+Kensington and Chelsea,1366,2011-02-01
+Tower Hamlets,1814,2011-02-01
+Richmond upon Thames,774,2011-02-01
+Hillingdon,1841,2011-02-01
+Lewisham,1950,2011-02-01
+Redbridge,1783,2011-02-01
+Islington,2040,2011-02-01
+Harrow,972,2011-02-01
+Merton,1112,2011-02-01
+Wandsworth,1646,2011-02-01
+Hammersmith and Fulham,1628,2011-02-01
+Enfield,1832,2011-02-01
+Greenwich,1362,2011-02-01
+City of London,0,2011-02-01
+Sutton,863,2013-01-01
+Barking and Dagenham,1453,2013-01-01
+Ealing,2217,2013-01-01
+Hackney,2020,2013-01-01
+Bromley,1599,2013-01-01
+Newham,2402,2013-01-01
+Croydon,2263,2013-01-01
+Bexley,956,2013-01-01
+Hounslow,1703,2013-01-01
+Kingston upon Thames,776,2013-01-01
+Southwark,2746,2013-01-01
+Lambeth,2696,2013-01-01
+Haringey,1719,2013-01-01
+Barnet,1918,2013-01-01
+Havering,1317,2013-01-01
+Waltham Forest,2030,2013-01-01
+Brent,2019,2013-01-01
+Westminster,4749,2013-01-01
+Camden,2535,2013-01-01
+Kensington and Chelsea,1536,2013-01-01
+Tower Hamlets,2087,2013-01-01
+Richmond upon Thames,921,2013-01-01
+Hillingdon,1727,2013-01-01
+Lewisham,1937,2013-01-01
+Redbridge,1724,2013-01-01
+Islington,2080,2013-01-01
+Harrow,1072,2013-01-01
+Merton,1107,2013-01-01
+Wandsworth,1895,2013-01-01
+Hammersmith and Fulham,1577,2013-01-01
+Enfield,1623,2013-01-01
+Greenwich,1656,2013-01-01
+City of London,10,2013-01-01
+Sutton,903,2012-06-01
+Barking and Dagenham,1298,2012-06-01
+Ealing,2420,2012-06-01
+Hackney,2422,2012-06-01
+Bromley,1578,2012-06-01
+Newham,2462,2012-06-01
+Croydon,2494,2012-06-01
+Bexley,983,2012-06-01
+Hounslow,1921,2012-06-01
+Kingston upon Thames,829,2012-06-01
+Southwark,2695,2012-06-01
+Lambeth,2887,2012-06-01
+Haringey,2032,2012-06-01
+Barnet,1993,2012-06-01
+Havering,1274,2012-06-01
+Waltham Forest,2002,2012-06-01
+Brent,2134,2012-06-01
+Westminster,4797,2012-06-01
+Camden,2645,2012-06-01
+Kensington and Chelsea,1571,2012-06-01
+Tower Hamlets,2636,2012-06-01
+Richmond upon Thames,872,2012-06-01
+Hillingdon,1772,2012-06-01
+Lewisham,2060,2012-06-01
+Redbridge,1690,2012-06-01
+Islington,2169,2012-06-01
+Harrow,1121,2012-06-01
+Merton,1064,2012-06-01
+Wandsworth,2086,2012-06-01
+Hammersmith and Fulham,1757,2012-06-01
+Enfield,1847,2012-06-01
+Greenwich,1852,2012-06-01
+City of London,15,2012-06-01
+Sutton,1052,2011-07-01
+Barking and Dagenham,1416,2011-07-01
+Ealing,2539,2011-07-01
+Hackney,1786,2011-07-01
+Bromley,1655,2011-07-01
+Newham,2352,2011-07-01
+Croydon,2688,2011-07-01
+Bexley,997,2011-07-01
+Hounslow,1874,2011-07-01
+Kingston upon Thames,867,2011-07-01
+Southwark,2523,2011-07-01
+Lambeth,2881,2011-07-01
+Haringey,1964,2011-07-01
+Barnet,2151,2011-07-01
+Havering,1336,2011-07-01
+Waltham Forest,2076,2011-07-01
+Brent,2443,2011-07-01
+Westminster,4619,2011-07-01
+Camden,3027,2011-07-01
+Kensington and Chelsea,1561,2011-07-01
+Tower Hamlets,2453,2011-07-01
+Richmond upon Thames,903,2011-07-01
+Hillingdon,2040,2011-07-01
+Lewisham,1962,2011-07-01
+Redbridge,1776,2011-07-01
+Islington,2052,2011-07-01
+Harrow,1041,2011-07-01
+Merton,1216,2011-07-01
+Wandsworth,1904,2011-07-01
+Hammersmith and Fulham,1902,2011-07-01
+Enfield,1841,2011-07-01
+Greenwich,1531,2011-07-01
+City of London,0,2011-07-01
+Sutton,802,2014-02-01
+Barking and Dagenham,1204,2014-02-01
+Ealing,1817,2014-02-01
+Hackney,1852,2014-02-01
+Bromley,1514,2014-02-01
+Newham,2304,2014-02-01
+Croydon,1963,2014-02-01
+Bexley,836,2014-02-01
+Hounslow,1560,2014-02-01
+Kingston upon Thames,687,2014-02-01
+Southwark,2188,2014-02-01
+Lambeth,2359,2014-02-01
+Haringey,1736,2014-02-01
+Barnet,1758,2014-02-01
+Havering,1161,2014-02-01
+Waltham Forest,1644,2014-02-01
+Brent,1813,2014-02-01
+Westminster,3825,2014-02-01
+Camden,2075,2014-02-01
+Kensington and Chelsea,1325,2014-02-01
+Tower Hamlets,1793,2014-02-01
+Richmond upon Thames,680,2014-02-01
+Hillingdon,1607,2014-02-01
+Lewisham,1620,2014-02-01
+Redbridge,1440,2014-02-01
+Islington,1904,2014-02-01
+Harrow,944,2014-02-01
+Merton,795,2014-02-01
+Wandsworth,1543,2014-02-01
+Hammersmith and Fulham,1284,2014-02-01
+Enfield,1702,2014-02-01
+Greenwich,1480,2014-02-01
+City of London,7,2014-02-01
+Sutton,902,2012-08-01
+Barking and Dagenham,1269,2012-08-01
+Ealing,2398,2012-08-01
+Hackney,2287,2012-08-01
+Bromley,1611,2012-08-01
+Newham,2653,2012-08-01
+Croydon,2414,2012-08-01
+Bexley,898,2012-08-01
+Hounslow,1850,2012-08-01
+Kingston upon Thames,875,2012-08-01
+Southwark,2619,2012-08-01
+Lambeth,2872,2012-08-01
+Haringey,1861,2012-08-01
+Barnet,1784,2012-08-01
+Havering,1266,2012-08-01
+Waltham Forest,1936,2012-08-01
+Brent,2282,2012-08-01
+Westminster,5246,2012-08-01
+Camden,2513,2012-08-01
+Kensington and Chelsea,2263,2012-08-01
+Tower Hamlets,2446,2012-08-01
+Richmond upon Thames,900,2012-08-01
+Hillingdon,1919,2012-08-01
+Lewisham,1910,2012-08-01
+Redbridge,1763,2012-08-01
+Islington,2278,2012-08-01
+Harrow,990,2012-08-01
+Merton,999,2012-08-01
+Wandsworth,1893,2012-08-01
+Hammersmith and Fulham,1748,2012-08-01
+Enfield,1744,2012-08-01
+Greenwich,1741,2012-08-01
+City of London,13,2012-08-01
+Sutton,849,2015-05-01
+Barking and Dagenham,1436,2015-05-01
+Ealing,2349,2015-05-01
+Hackney,2405,2015-05-01
+Bromley,1760,2015-05-01
+Newham,2336,2015-05-01
+Croydon,2506,2015-05-01
+Bexley,1063,2015-05-01
+Hounslow,1788,2015-05-01
+Kingston upon Thames,815,2015-05-01
+Southwark,2772,2015-05-01
+Lambeth,2931,2015-05-01
+Haringey,1945,2015-05-01
+Barnet,1932,2015-05-01
+Havering,1246,2015-05-01
+Waltham Forest,1639,2015-05-01
+Brent,2135,2015-05-01
+Westminster,4048,2015-05-01
+Camden,2716,2015-05-01
+Kensington and Chelsea,1590,2015-05-01
+Tower Hamlets,2372,2015-05-01
+Richmond upon Thames,959,2015-05-01
+Hillingdon,1983,2015-05-01
+Lewisham,2037,2015-05-01
+Redbridge,1460,2015-05-01
+Islington,2395,2015-05-01
+Harrow,1097,2015-05-01
+Merton,1104,2015-05-01
+Wandsworth,1979,2015-05-01
+Hammersmith and Fulham,1744,2015-05-01
+Enfield,1845,2015-05-01
+Greenwich,1782,2015-05-01
+City of London,20,2015-05-01
+Sutton,831,2016-07-01
+Barking and Dagenham,1534,2016-07-01
+Ealing,2497,2016-07-01
+Hackney,2590,2016-07-01
+Bromley,1780,2016-07-01
+Newham,2583,2016-07-01
+Croydon,2668,2016-07-01
+Bexley,1093,2016-07-01
+Hounslow,1910,2016-07-01
+Kingston upon Thames,819,2016-07-01
+Southwark,2705,2016-07-01
+Lambeth,3161,2016-07-01
+Haringey,2444,2016-07-01
+Barnet,2062,2016-07-01
+Havering,1399,2016-07-01
+Waltham Forest,1831,2016-07-01
+Brent,2285,2016-07-01
+Westminster,4357,2016-07-01
+Camden,2585,2016-07-01
+Kensington and Chelsea,1653,2016-07-01
+Tower Hamlets,2783,2016-07-01
+Richmond upon Thames,1045,2016-07-01
+Hillingdon,2134,2016-07-01
+Lewisham,2136,2016-07-01
+Redbridge,1730,2016-07-01
+Islington,2569,2016-07-01
+Harrow,1187,2016-07-01
+Merton,1140,2016-07-01
+Wandsworth,2303,2016-07-01
+Hammersmith and Fulham,1670,2016-07-01
+Enfield,1972,2016-07-01
+Greenwich,2050,2016-07-01
+City of London,13,2016-07-01
+Sutton,895,2016-01-01
+Barking and Dagenham,1376,2016-01-01
+Ealing,2148,2016-01-01
+Hackney,2124,2016-01-01
+Bromley,1692,2016-01-01
+Newham,2422,2016-01-01
+Croydon,2248,2016-01-01
+Bexley,1120,2016-01-01
+Hounslow,1736,2016-01-01
+Kingston upon Thames,807,2016-01-01
+Southwark,2480,2016-01-01
+Lambeth,2752,2016-01-01
+Haringey,1991,2016-01-01
+Barnet,1982,2016-01-01
+Havering,1330,2016-01-01
+Waltham Forest,1703,2016-01-01
+Brent,2124,2016-01-01
+Westminster,4022,2016-01-01
+Camden,2335,2016-01-01
+Kensington and Chelsea,1511,2016-01-01
+Tower Hamlets,2345,2016-01-01
+Richmond upon Thames,835,2016-01-01
+Hillingdon,1964,2016-01-01
+Lewisham,1989,2016-01-01
+Redbridge,1489,2016-01-01
+Islington,2338,2016-01-01
+Harrow,1075,2016-01-01
+Merton,1015,2016-01-01
+Wandsworth,1800,2016-01-01
+Hammersmith and Fulham,1587,2016-01-01
+Enfield,1739,2016-01-01
+Greenwich,1863,2016-01-01
+City of London,10,2016-01-01
+Sutton,930,2013-10-01
+Barking and Dagenham,1327,2013-10-01
+Ealing,2192,2013-10-01
+Hackney,2233,2013-10-01
+Bromley,1718,2013-10-01
+Newham,2528,2013-10-01
+Croydon,2434,2013-10-01
+Bexley,966,2013-10-01
+Hounslow,1710,2013-10-01
+Kingston upon Thames,847,2013-10-01
+Southwark,2659,2013-10-01
+Lambeth,2844,2013-10-01
+Haringey,1872,2013-10-01
+Barnet,1965,2013-10-01
+Havering,1296,2013-10-01
+Waltham Forest,1900,2013-10-01
+Brent,2057,2013-10-01
+Westminster,4512,2013-10-01
+Camden,2498,2013-10-01
+Kensington and Chelsea,1443,2013-10-01
+Tower Hamlets,2283,2013-10-01
+Richmond upon Thames,822,2013-10-01
+Hillingdon,1975,2013-10-01
+Lewisham,1851,2013-10-01
+Redbridge,1763,2013-10-01
+Islington,2121,2013-10-01
+Harrow,1003,2013-10-01
+Merton,967,2013-10-01
+Wandsworth,1934,2013-10-01
+Hammersmith and Fulham,1681,2013-10-01
+Enfield,1876,2013-10-01
+Greenwich,1742,2013-10-01
+City of London,7,2013-10-01
+Sutton,889,2014-06-01
+Barking and Dagenham,1269,2014-06-01
+Ealing,2172,2014-06-01
+Hackney,2163,2014-06-01
+Bromley,1646,2014-06-01
+Newham,2270,2014-06-01
+Croydon,2280,2014-06-01
+Bexley,1026,2014-06-01
+Hounslow,1745,2014-06-01
+Kingston upon Thames,770,2014-06-01
+Southwark,2400,2014-06-01
+Lambeth,2744,2014-06-01
+Haringey,1948,2014-06-01
+Barnet,1725,2014-06-01
+Havering,1091,2014-06-01
+Waltham Forest,1722,2014-06-01
+Brent,2185,2014-06-01
+Westminster,3887,2014-06-01
+Camden,2242,2014-06-01
+Kensington and Chelsea,1395,2014-06-01
+Tower Hamlets,2300,2014-06-01
+Richmond upon Thames,909,2014-06-01
+Hillingdon,2010,2014-06-01
+Lewisham,1706,2014-06-01
+Redbridge,1677,2014-06-01
+Islington,1927,2014-06-01
+Harrow,902,2014-06-01
+Merton,998,2014-06-01
+Wandsworth,1852,2014-06-01
+Hammersmith and Fulham,1612,2014-06-01
+Enfield,1764,2014-06-01
+Greenwich,1809,2014-06-01
+City of London,4,2014-06-01
+Sutton,880,2012-02-01
+Barking and Dagenham,1307,2012-02-01
+Ealing,2171,2012-02-01
+Hackney,1950,2012-02-01
+Bromley,1606,2012-02-01
+Newham,2249,2012-02-01
+Croydon,2240,2012-02-01
+Bexley,886,2012-02-01
+Hounslow,1798,2012-02-01
+Kingston upon Thames,830,2012-02-01
+Southwark,2465,2012-02-01
+Lambeth,2311,2012-02-01
+Haringey,1836,2012-02-01
+Barnet,1884,2012-02-01
+Havering,1382,2012-02-01
+Waltham Forest,1628,2012-02-01
+Brent,2190,2012-02-01
+Westminster,4381,2012-02-01
+Camden,2401,2012-02-01
+Kensington and Chelsea,1433,2012-02-01
+Tower Hamlets,2061,2012-02-01
+Richmond upon Thames,812,2012-02-01
+Hillingdon,1787,2012-02-01
+Lewisham,1804,2012-02-01
+Redbridge,1716,2012-02-01
+Islington,1860,2012-02-01
+Harrow,1039,2012-02-01
+Merton,1073,2012-02-01
+Wandsworth,1894,2012-02-01
+Hammersmith and Fulham,1673,2012-02-01
+Enfield,1651,2012-02-01
+Greenwich,1514,2012-02-01
+City of London,23,2012-02-01
+Sutton,985,2011-04-01
+Barking and Dagenham,1457,2011-04-01
+Ealing,2601,2011-04-01
+Hackney,1659,2011-04-01
+Bromley,1589,2011-04-01
+Newham,2335,2011-04-01
+Croydon,2467,2011-04-01
+Bexley,923,2011-04-01
+Hounslow,1697,2011-04-01
+Kingston upon Thames,848,2011-04-01
+Southwark,2465,2011-04-01
+Lambeth,2938,2011-04-01
+Haringey,1809,2011-04-01
+Barnet,2060,2011-04-01
+Havering,1211,2011-04-01
+Waltham Forest,2012,2011-04-01
+Brent,2257,2011-04-01
+Westminster,4187,2011-04-01
+Camden,2803,2011-04-01
+Kensington and Chelsea,1544,2011-04-01
+Tower Hamlets,1828,2011-04-01
+Richmond upon Thames,952,2011-04-01
+Hillingdon,2004,2011-04-01
+Lewisham,1884,2011-04-01
+Redbridge,1697,2011-04-01
+Islington,1937,2011-04-01
+Harrow,1045,2011-04-01
+Merton,1071,2011-04-01
+Wandsworth,1537,2011-04-01
+Hammersmith and Fulham,1813,2011-04-01
+Enfield,1704,2011-04-01
+Greenwich,1395,2011-04-01
+City of London,0,2011-04-01
+Sutton,951,2009-08-01
+Barking and Dagenham,1454,2009-08-01
+Ealing,2484,2009-08-01
+Hackney,1709,2009-08-01
+Bromley,1656,2009-08-01
+Newham,2421,2009-08-01
+Croydon,2424,2009-08-01
+Bexley,1143,2009-08-01
+Hounslow,1571,2009-08-01
+Kingston upon Thames,830,2009-08-01
+Southwark,2704,2009-08-01
+Lambeth,2675,2009-08-01
+Haringey,2006,2009-08-01
+Barnet,1875,2009-08-01
+Havering,1107,2009-08-01
+Waltham Forest,2026,2009-08-01
+Brent,1976,2009-08-01
+Westminster,3918,2009-08-01
+Camden,2454,2009-08-01
+Kensington and Chelsea,1743,2009-08-01
+Tower Hamlets,1907,2009-08-01
+Richmond upon Thames,723,2009-08-01
+Hillingdon,2066,2009-08-01
+Lewisham,2127,2009-08-01
+Redbridge,1551,2009-08-01
+Islington,2007,2009-08-01
+Harrow,1083,2009-08-01
+Merton,1045,2009-08-01
+Wandsworth,2046,2009-08-01
+Hammersmith and Fulham,1707,2009-08-01
+Enfield,1745,2009-08-01
+Greenwich,1561,2009-08-01
+City of London,0,2009-08-01
+Sutton,888,2009-09-01
+Barking and Dagenham,1454,2009-09-01
+Ealing,2430,2009-09-01
+Hackney,1566,2009-09-01
+Bromley,1643,2009-09-01
+Newham,2410,2009-09-01
+Croydon,2377,2009-09-01
+Bexley,1170,2009-09-01
+Hounslow,1720,2009-09-01
+Kingston upon Thames,825,2009-09-01
+Southwark,2541,2009-09-01
+Lambeth,2457,2009-09-01
+Haringey,1880,2009-09-01
+Barnet,1913,2009-09-01
+Havering,1169,2009-09-01
+Waltham Forest,2039,2009-09-01
+Brent,1923,2009-09-01
+Westminster,3779,2009-09-01
+Camden,2434,2009-09-01
+Kensington and Chelsea,1699,2009-09-01
+Tower Hamlets,1689,2009-09-01
+Richmond upon Thames,922,2009-09-01
+Hillingdon,1970,2009-09-01
+Lewisham,2114,2009-09-01
+Redbridge,1761,2009-09-01
+Islington,1960,2009-09-01
+Harrow,1050,2009-09-01
+Merton,1141,2009-09-01
+Wandsworth,1961,2009-09-01
+Hammersmith and Fulham,1728,2009-09-01
+Enfield,1704,2009-09-01
+Greenwich,1530,2009-09-01
+City of London,0,2009-09-01
+Sutton,847,2016-10-01
+Barking and Dagenham,1323,2016-10-01
+Ealing,2292,2016-10-01
+Hackney,2455,2016-10-01
+Bromley,1758,2016-10-01
+Newham,2771,2016-10-01
+Croydon,2398,2016-10-01
+Bexley,1148,2016-10-01
+Hounslow,2134,2016-10-01
+Kingston upon Thames,859,2016-10-01
+Southwark,2709,2016-10-01
+Lambeth,2872,2016-10-01
+Haringey,2249,2016-10-01
+Barnet,2074,2016-10-01
+Havering,1404,2016-10-01
+Waltham Forest,1763,2016-10-01
+Brent,2366,2016-10-01
+Westminster,4093,2016-10-01
+Camden,2542,2016-10-01
+Kensington and Chelsea,1595,2016-10-01
+Tower Hamlets,2707,2016-10-01
+Richmond upon Thames,918,2016-10-01
+Hillingdon,2112,2016-10-01
+Lewisham,2000,2016-10-01
+Redbridge,1684,2016-10-01
+Islington,2272,2016-10-01
+Harrow,1099,2016-10-01
+Merton,1074,2016-10-01
+Wandsworth,2197,2016-10-01
+Hammersmith and Fulham,1719,2016-10-01
+Enfield,1972,2016-10-01
+Greenwich,1982,2016-10-01
+City of London,17,2016-10-01
+Sutton,1172,2008-10-01
+Barking and Dagenham,1440,2008-10-01
+Ealing,2621,2008-10-01
+Hackney,1812,2008-10-01
+Bromley,2090,2008-10-01
+Newham,2539,2008-10-01
+Croydon,2518,2008-10-01
+Bexley,1292,2008-10-01
+Hounslow,1684,2008-10-01
+Kingston upon Thames,881,2008-10-01
+Southwark,2790,2008-10-01
+Lambeth,2773,2008-10-01
+Haringey,2309,2008-10-01
+Barnet,2065,2008-10-01
+Havering,1174,2008-10-01
+Waltham Forest,2024,2008-10-01
+Brent,2115,2008-10-01
+Westminster,4190,2008-10-01
+Camden,2848,2008-10-01
+Kensington and Chelsea,1679,2008-10-01
+Tower Hamlets,1961,2008-10-01
+Richmond upon Thames,910,2008-10-01
+Hillingdon,2093,2008-10-01
+Lewisham,2301,2008-10-01
+Redbridge,1903,2008-10-01
+Islington,2367,2008-10-01
+Harrow,1289,2008-10-01
+Merton,1179,2008-10-01
+Wandsworth,1899,2008-10-01
+Hammersmith and Fulham,1901,2008-10-01
+Enfield,1804,2008-10-01
+Greenwich,1731,2008-10-01
+City of London,0,2008-10-01
+Sutton,962,2015-03-01
+Barking and Dagenham,1471,2015-03-01
+Ealing,2160,2015-03-01
+Hackney,2313,2015-03-01
+Bromley,1739,2015-03-01
+Newham,2568,2015-03-01
+Croydon,2494,2015-03-01
+Bexley,1039,2015-03-01
+Hounslow,1719,2015-03-01
+Kingston upon Thames,799,2015-03-01
+Southwark,2424,2015-03-01
+Lambeth,2757,2015-03-01
+Haringey,2095,2015-03-01
+Barnet,1937,2015-03-01
+Havering,1277,2015-03-01
+Waltham Forest,1799,2015-03-01
+Brent,2084,2015-03-01
+Westminster,3974,2015-03-01
+Camden,2529,2015-03-01
+Kensington and Chelsea,1557,2015-03-01
+Tower Hamlets,2273,2015-03-01
+Richmond upon Thames,924,2015-03-01
+Hillingdon,1955,2015-03-01
+Lewisham,1909,2015-03-01
+Redbridge,1648,2015-03-01
+Islington,2369,2015-03-01
+Harrow,1036,2015-03-01
+Merton,980,2015-03-01
+Wandsworth,1949,2015-03-01
+Hammersmith and Fulham,1701,2015-03-01
+Enfield,1874,2015-03-01
+Greenwich,1771,2015-03-01
+City of London,10,2015-03-01
+Sutton,863,2011-10-01
+Barking and Dagenham,1324,2011-10-01
+Ealing,2480,2011-10-01
+Hackney,2161,2011-10-01
+Bromley,1640,2011-10-01
+Newham,2542,2011-10-01
+Croydon,2532,2011-10-01
+Bexley,866,2011-10-01
+Hounslow,1912,2011-10-01
+Kingston upon Thames,975,2011-10-01
+Southwark,2955,2011-10-01
+Lambeth,2929,2011-10-01
+Haringey,1991,2011-10-01
+Barnet,1955,2011-10-01
+Havering,1318,2011-10-01
+Waltham Forest,1940,2011-10-01
+Brent,2625,2011-10-01
+Westminster,5304,2011-10-01
+Camden,2911,2011-10-01
+Kensington and Chelsea,1436,2011-10-01
+Tower Hamlets,2131,2011-10-01
+Richmond upon Thames,938,2011-10-01
+Hillingdon,2157,2011-10-01
+Lewisham,2161,2011-10-01
+Redbridge,2026,2011-10-01
+Islington,2216,2011-10-01
+Harrow,1057,2011-10-01
+Merton,1199,2011-10-01
+Wandsworth,1902,2011-10-01
+Hammersmith and Fulham,1811,2011-10-01
+Enfield,1719,2011-10-01
+Greenwich,1629,2011-10-01
+City of London,17,2011-10-01
+Sutton,827,2013-06-01
+Barking and Dagenham,1203,2013-06-01
+Ealing,2191,2013-06-01
+Hackney,2254,2013-06-01
+Bromley,1402,2013-06-01
+Newham,2241,2013-06-01
+Croydon,2336,2013-06-01
+Bexley,909,2013-06-01
+Hounslow,1581,2013-06-01
+Kingston upon Thames,721,2013-06-01
+Southwark,2617,2013-06-01
+Lambeth,2681,2013-06-01
+Haringey,1944,2013-06-01
+Barnet,1813,2013-06-01
+Havering,1157,2013-06-01
+Waltham Forest,1780,2013-06-01
+Brent,1982,2013-06-01
+Westminster,4506,2013-06-01
+Camden,2506,2013-06-01
+Kensington and Chelsea,1369,2013-06-01
+Tower Hamlets,2109,2013-06-01
+Richmond upon Thames,942,2013-06-01
+Hillingdon,1633,2013-06-01
+Lewisham,1886,2013-06-01
+Redbridge,1546,2013-06-01
+Islington,1901,2013-06-01
+Harrow,978,2013-06-01
+Merton,956,2013-06-01
+Wandsworth,1886,2013-06-01
+Hammersmith and Fulham,1497,2013-06-01
+Enfield,1901,2013-06-01
+Greenwich,1572,2013-06-01
+City of London,12,2013-06-01
+Sutton,913,2015-04-01
+Barking and Dagenham,1278,2015-04-01
+Ealing,2049,2015-04-01
+Hackney,2190,2015-04-01
+Bromley,1684,2015-04-01
+Newham,2165,2015-04-01
+Croydon,2303,2015-04-01
+Bexley,898,2015-04-01
+Hounslow,1604,2015-04-01
+Kingston upon Thames,761,2015-04-01
+Southwark,2435,2015-04-01
+Lambeth,2630,2015-04-01
+Haringey,2020,2015-04-01
+Barnet,1886,2015-04-01
+Havering,1169,2015-04-01
+Waltham Forest,1700,2015-04-01
+Brent,1934,2015-04-01
+Westminster,3757,2015-04-01
+Camden,2434,2015-04-01
+Kensington and Chelsea,1430,2015-04-01
+Tower Hamlets,2071,2015-04-01
+Richmond upon Thames,858,2015-04-01
+Hillingdon,1805,2015-04-01
+Lewisham,1916,2015-04-01
+Redbridge,1473,2015-04-01
+Islington,2295,2015-04-01
+Harrow,955,2015-04-01
+Merton,930,2015-04-01
+Wandsworth,1834,2015-04-01
+Hammersmith and Fulham,1674,2015-04-01
+Enfield,1701,2015-04-01
+Greenwich,1678,2015-04-01
+City of London,15,2015-04-01
+Sutton,832,2015-11-01
+Barking and Dagenham,1437,2015-11-01
+Ealing,2225,2015-11-01
+Hackney,2225,2015-11-01
+Bromley,1716,2015-11-01
+Newham,2547,2015-11-01
+Croydon,2451,2015-11-01
+Bexley,1080,2015-11-01
+Hounslow,1895,2015-11-01
+Kingston upon Thames,848,2015-11-01
+Southwark,2734,2015-11-01
+Lambeth,2973,2015-11-01
+Haringey,2245,2015-11-01
+Barnet,2144,2015-11-01
+Havering,1466,2015-11-01
+Waltham Forest,1912,2015-11-01
+Brent,2394,2015-11-01
+Westminster,4225,2015-11-01
+Camden,2521,2015-11-01
+Kensington and Chelsea,1619,2015-11-01
+Tower Hamlets,2326,2015-11-01
+Richmond upon Thames,830,2015-11-01
+Hillingdon,2010,2015-11-01
+Lewisham,2051,2015-11-01
+Redbridge,1689,2015-11-01
+Islington,2303,2015-11-01
+Harrow,1198,2015-11-01
+Merton,1095,2015-11-01
+Wandsworth,1907,2015-11-01
+Hammersmith and Fulham,1761,2015-11-01
+Enfield,1971,2015-11-01
+Greenwich,1846,2015-11-01
+City of London,11,2015-11-01
+Sutton,837,2013-09-01
+Barking and Dagenham,1207,2013-09-01
+Ealing,2037,2013-09-01
+Hackney,2069,2013-09-01
+Bromley,1519,2013-09-01
+Newham,2064,2013-09-01
+Croydon,2198,2013-09-01
+Bexley,906,2013-09-01
+Hounslow,1651,2013-09-01
+Kingston upon Thames,744,2013-09-01
+Southwark,2555,2013-09-01
+Lambeth,2648,2013-09-01
+Haringey,1554,2013-09-01
+Barnet,1761,2013-09-01
+Havering,1211,2013-09-01
+Waltham Forest,1839,2013-09-01
+Brent,1907,2013-09-01
+Westminster,4047,2013-09-01
+Camden,2271,2013-09-01
+Kensington and Chelsea,1411,2013-09-01
+Tower Hamlets,2177,2013-09-01
+Richmond upon Thames,865,2013-09-01
+Hillingdon,1575,2013-09-01
+Lewisham,1760,2013-09-01
+Redbridge,1503,2013-09-01
+Islington,1997,2013-09-01
+Harrow,922,2013-09-01
+Merton,887,2013-09-01
+Wandsworth,1888,2013-09-01
+Hammersmith and Fulham,1511,2013-09-01
+Enfield,1811,2013-09-01
+Greenwich,1579,2013-09-01
+City of London,13,2013-09-01
+Sutton,839,2013-04-01
+Barking and Dagenham,1297,2013-04-01
+Ealing,2156,2013-04-01
+Hackney,2117,2013-04-01
+Bromley,1615,2013-04-01
+Newham,2280,2013-04-01
+Croydon,2173,2013-04-01
+Bexley,914,2013-04-01
+Hounslow,1573,2013-04-01
+Kingston upon Thames,746,2013-04-01
+Southwark,2504,2013-04-01
+Lambeth,2519,2013-04-01
+Haringey,1630,2013-04-01
+Barnet,1781,2013-04-01
+Havering,1239,2013-04-01
+Waltham Forest,1805,2013-04-01
+Brent,1801,2013-04-01
+Westminster,4458,2013-04-01
+Camden,2356,2013-04-01
+Kensington and Chelsea,1395,2013-04-01
+Tower Hamlets,2171,2013-04-01
+Richmond upon Thames,889,2013-04-01
+Hillingdon,1636,2013-04-01
+Lewisham,1781,2013-04-01
+Redbridge,1607,2013-04-01
+Islington,1839,2013-04-01
+Harrow,923,2013-04-01
+Merton,1028,2013-04-01
+Wandsworth,1853,2013-04-01
+Hammersmith and Fulham,1502,2013-04-01
+Enfield,1680,2013-04-01
+Greenwich,1564,2013-04-01
+City of London,7,2013-04-01
+Sutton,991,2012-10-01
+Barking and Dagenham,1299,2012-10-01
+Ealing,2396,2012-10-01
+Hackney,2390,2012-10-01
+Bromley,1671,2012-10-01
+Newham,2617,2012-10-01
+Croydon,2510,2012-10-01
+Bexley,1029,2012-10-01
+Hounslow,1878,2012-10-01
+Kingston upon Thames,890,2012-10-01
+Southwark,2445,2012-10-01
+Lambeth,2756,2012-10-01
+Haringey,1851,2012-10-01
+Barnet,2020,2012-10-01
+Havering,1303,2012-10-01
+Waltham Forest,1863,2012-10-01
+Brent,2123,2012-10-01
+Westminster,4761,2012-10-01
+Camden,2563,2012-10-01
+Kensington and Chelsea,1615,2012-10-01
+Tower Hamlets,2309,2012-10-01
+Richmond upon Thames,995,2012-10-01
+Hillingdon,1803,2012-10-01
+Lewisham,1939,2012-10-01
+Redbridge,1745,2012-10-01
+Islington,2279,2012-10-01
+Harrow,1037,2012-10-01
+Merton,1076,2012-10-01
+Wandsworth,2261,2012-10-01
+Hammersmith and Fulham,1750,2012-10-01
+Enfield,1926,2012-10-01
+Greenwich,1626,2012-10-01
+City of London,11,2012-10-01
+Sutton,1119,2010-06-01
+Barking and Dagenham,1516,2010-06-01
+Ealing,2816,2010-06-01
+Hackney,1867,2010-06-01
+Bromley,1683,2010-06-01
+Newham,2662,2010-06-01
+Croydon,2617,2010-06-01
+Bexley,1141,2010-06-01
+Hounslow,1696,2010-06-01
+Kingston upon Thames,925,2010-06-01
+Southwark,2789,2010-06-01
+Lambeth,2832,2010-06-01
+Haringey,2000,2010-06-01
+Barnet,2076,2010-06-01
+Havering,1359,2010-06-01
+Waltham Forest,2180,2010-06-01
+Brent,2142,2010-06-01
+Westminster,3897,2010-06-01
+Camden,2599,2010-06-01
+Kensington and Chelsea,1631,2010-06-01
+Tower Hamlets,1959,2010-06-01
+Richmond upon Thames,959,2010-06-01
+Hillingdon,2101,2010-06-01
+Lewisham,2164,2010-06-01
+Redbridge,1709,2010-06-01
+Islington,2059,2010-06-01
+Harrow,1322,2010-06-01
+Merton,1253,2010-06-01
+Wandsworth,2095,2010-06-01
+Hammersmith and Fulham,1972,2010-06-01
+Enfield,1860,2010-06-01
+Greenwich,1632,2010-06-01
+City of London,0,2010-06-01
+Sutton,842,2011-09-01
+Barking and Dagenham,1315,2011-09-01
+Ealing,2158,2011-09-01
+Hackney,2158,2011-09-01
+Bromley,1611,2011-09-01
+Newham,2393,2011-09-01
+Croydon,2356,2011-09-01
+Bexley,853,2011-09-01
+Hounslow,1901,2011-09-01
+Kingston upon Thames,825,2011-09-01
+Southwark,2542,2011-09-01
+Lambeth,2756,2011-09-01
+Haringey,1845,2011-09-01
+Barnet,1814,2011-09-01
+Havering,1272,2011-09-01
+Waltham Forest,1706,2011-09-01
+Brent,2241,2011-09-01
+Westminster,4607,2011-09-01
+Camden,2658,2011-09-01
+Kensington and Chelsea,1426,2011-09-01
+Tower Hamlets,2076,2011-09-01
+Richmond upon Thames,902,2011-09-01
+Hillingdon,2096,2011-09-01
+Lewisham,1986,2011-09-01
+Redbridge,1724,2011-09-01
+Islington,1976,2011-09-01
+Harrow,961,2011-09-01
+Merton,983,2011-09-01
+Wandsworth,1771,2011-09-01
+Hammersmith and Fulham,1727,2011-09-01
+Enfield,1597,2011-09-01
+Greenwich,1545,2011-09-01
+City of London,17,2011-09-01
+Sutton,848,2011-12-01
+Barking and Dagenham,1347,2011-12-01
+Ealing,2277,2011-12-01
+Hackney,1793,2011-12-01
+Bromley,1788,2011-12-01
+Newham,2135,2011-12-01
+Croydon,2158,2011-12-01
+Bexley,829,2011-12-01
+Hounslow,1740,2011-12-01
+Kingston upon Thames,906,2011-12-01
+Southwark,2650,2011-12-01
+Lambeth,2626,2011-12-01
+Haringey,2048,2011-12-01
+Barnet,1923,2011-12-01
+Havering,1292,2011-12-01
+Waltham Forest,1758,2011-12-01
+Brent,2335,2011-12-01
+Westminster,5333,2011-12-01
+Camden,2630,2011-12-01
+Kensington and Chelsea,1657,2011-12-01
+Tower Hamlets,1943,2011-12-01
+Richmond upon Thames,887,2011-12-01
+Hillingdon,2091,2011-12-01
+Lewisham,1922,2011-12-01
+Redbridge,1683,2011-12-01
+Islington,1893,2011-12-01
+Harrow,1124,2011-12-01
+Merton,1036,2011-12-01
+Wandsworth,1852,2011-12-01
+Hammersmith and Fulham,1822,2011-12-01
+Enfield,1539,2011-12-01
+Greenwich,1801,2011-12-01
+City of London,14,2011-12-01
+Sutton,969,2010-09-01
+Barking and Dagenham,1395,2010-09-01
+Ealing,2546,2010-09-01
+Hackney,1736,2010-09-01
+Bromley,1493,2010-09-01
+Newham,2527,2010-09-01
+Croydon,2503,2010-09-01
+Bexley,1014,2010-09-01
+Hounslow,1688,2010-09-01
+Kingston upon Thames,936,2010-09-01
+Southwark,2567,2010-09-01
+Lambeth,2708,2010-09-01
+Haringey,1769,2010-09-01
+Barnet,1964,2010-09-01
+Havering,1235,2010-09-01
+Waltham Forest,2253,2010-09-01
+Brent,2074,2010-09-01
+Westminster,3986,2010-09-01
+Camden,2553,2010-09-01
+Kensington and Chelsea,1817,2010-09-01
+Tower Hamlets,2088,2010-09-01
+Richmond upon Thames,941,2010-09-01
+Hillingdon,1845,2010-09-01
+Lewisham,1855,2010-09-01
+Redbridge,1760,2010-09-01
+Islington,2119,2010-09-01
+Harrow,1174,2010-09-01
+Merton,1096,2010-09-01
+Wandsworth,2047,2010-09-01
+Hammersmith and Fulham,1849,2010-09-01
+Enfield,1659,2010-09-01
+Greenwich,1565,2010-09-01
+City of London,0,2010-09-01
+Sutton,835,2015-01-01
+Barking and Dagenham,1251,2015-01-01
+Ealing,2043,2015-01-01
+Hackney,2113,2015-01-01
+Bromley,1687,2015-01-01
+Newham,2478,2015-01-01
+Croydon,2376,2015-01-01
+Bexley,1031,2015-01-01
+Hounslow,1702,2015-01-01
+Kingston upon Thames,756,2015-01-01
+Southwark,2465,2015-01-01
+Lambeth,2415,2015-01-01
+Haringey,1863,2015-01-01
+Barnet,1963,2015-01-01
+Havering,1241,2015-01-01
+Waltham Forest,1666,2015-01-01
+Brent,1935,2015-01-01
+Westminster,3997,2015-01-01
+Camden,2385,2015-01-01
+Kensington and Chelsea,1527,2015-01-01
+Tower Hamlets,2163,2015-01-01
+Richmond upon Thames,853,2015-01-01
+Hillingdon,1881,2015-01-01
+Lewisham,1730,2015-01-01
+Redbridge,1581,2015-01-01
+Islington,2097,2015-01-01
+Harrow,973,2015-01-01
+Merton,1043,2015-01-01
+Wandsworth,1779,2015-01-01
+Hammersmith and Fulham,1634,2015-01-01
+Enfield,1804,2015-01-01
+Greenwich,1779,2015-01-01
+City of London,9,2015-01-01
+Sutton,843,2013-08-01
+Barking and Dagenham,1215,2013-08-01
+Ealing,2061,2013-08-01
+Hackney,2255,2013-08-01
+Bromley,1457,2013-08-01
+Newham,2330,2013-08-01
+Croydon,2310,2013-08-01
+Bexley,914,2013-08-01
+Hounslow,1671,2013-08-01
+Kingston upon Thames,741,2013-08-01
+Southwark,2586,2013-08-01
+Lambeth,2860,2013-08-01
+Haringey,1648,2013-08-01
+Barnet,1674,2013-08-01
+Havering,1205,2013-08-01
+Waltham Forest,1848,2013-08-01
+Brent,1907,2013-08-01
+Westminster,4640,2013-08-01
+Camden,2483,2013-08-01
+Kensington and Chelsea,2048,2013-08-01
+Tower Hamlets,2278,2013-08-01
+Richmond upon Thames,914,2013-08-01
+Hillingdon,1579,2013-08-01
+Lewisham,1881,2013-08-01
+Redbridge,1477,2013-08-01
+Islington,1927,2013-08-01
+Harrow,980,2013-08-01
+Merton,882,2013-08-01
+Wandsworth,1959,2013-08-01
+Hammersmith and Fulham,1540,2013-08-01
+Enfield,1816,2013-08-01
+Greenwich,1520,2013-08-01
+City of London,18,2013-08-01
+Sutton,1206,2009-06-01
+Barking and Dagenham,1456,2009-06-01
+Ealing,2443,2009-06-01
+Hackney,1956,2009-06-01
+Bromley,1888,2009-06-01
+Newham,2511,2009-06-01
+Croydon,2587,2009-06-01
+Bexley,1241,2009-06-01
+Hounslow,1768,2009-06-01
+Kingston upon Thames,846,2009-06-01
+Southwark,2744,2009-06-01
+Lambeth,2913,2009-06-01
+Haringey,1984,2009-06-01
+Barnet,2026,2009-06-01
+Havering,1201,2009-06-01
+Waltham Forest,2373,2009-06-01
+Brent,2184,2009-06-01
+Westminster,4095,2009-06-01
+Camden,2697,2009-06-01
+Kensington and Chelsea,1669,2009-06-01
+Tower Hamlets,1903,2009-06-01
+Richmond upon Thames,1025,2009-06-01
+Hillingdon,2024,2009-06-01
+Lewisham,2218,2009-06-01
+Redbridge,1780,2009-06-01
+Islington,2275,2009-06-01
+Harrow,1203,2009-06-01
+Merton,1260,2009-06-01
+Wandsworth,2035,2009-06-01
+Hammersmith and Fulham,1830,2009-06-01
+Enfield,1970,2009-06-01
+Greenwich,1805,2009-06-01
+City of London,0,2009-06-01
+Sutton,936,2012-07-01
+Barking and Dagenham,1342,2012-07-01
+Ealing,2547,2012-07-01
+Hackney,2305,2012-07-01
+Bromley,1731,2012-07-01
+Newham,2629,2012-07-01
+Croydon,2506,2012-07-01
+Bexley,1005,2012-07-01
+Hounslow,1941,2012-07-01
+Kingston upon Thames,773,2012-07-01
+Southwark,2719,2012-07-01
+Lambeth,2748,2012-07-01
+Haringey,1988,2012-07-01
+Barnet,1990,2012-07-01
+Havering,1295,2012-07-01
+Waltham Forest,1953,2012-07-01
+Brent,2219,2012-07-01
+Westminster,5428,2012-07-01
+Camden,2855,2012-07-01
+Kensington and Chelsea,1560,2012-07-01
+Tower Hamlets,2336,2012-07-01
+Richmond upon Thames,991,2012-07-01
+Hillingdon,1766,2012-07-01
+Lewisham,1992,2012-07-01
+Redbridge,1772,2012-07-01
+Islington,2374,2012-07-01
+Harrow,1107,2012-07-01
+Merton,1078,2012-07-01
+Wandsworth,2112,2012-07-01
+Hammersmith and Fulham,1821,2012-07-01
+Enfield,1717,2012-07-01
+Greenwich,1734,2012-07-01
+City of London,10,2012-07-01
+Sutton,900,2010-12-01
+Barking and Dagenham,1072,2010-12-01
+Ealing,2183,2010-12-01
+Hackney,1305,2010-12-01
+Bromley,1480,2010-12-01
+Newham,2022,2010-12-01
+Croydon,2192,2010-12-01
+Bexley,873,2010-12-01
+Hounslow,1367,2010-12-01
+Kingston upon Thames,767,2010-12-01
+Southwark,2068,2010-12-01
+Lambeth,2116,2010-12-01
+Haringey,1639,2010-12-01
+Barnet,1762,2010-12-01
+Havering,1083,2010-12-01
+Waltham Forest,1775,2010-12-01
+Brent,1873,2010-12-01
+Westminster,3802,2010-12-01
+Camden,2425,2010-12-01
+Kensington and Chelsea,1475,2010-12-01
+Tower Hamlets,1619,2010-12-01
+Richmond upon Thames,739,2010-12-01
+Hillingdon,1708,2010-12-01
+Lewisham,1816,2010-12-01
+Redbridge,1575,2010-12-01
+Islington,1892,2010-12-01
+Harrow,923,2010-12-01
+Merton,1010,2010-12-01
+Wandsworth,1523,2010-12-01
+Hammersmith and Fulham,1728,2010-12-01
+Enfield,1509,2010-12-01
+Greenwich,1315,2010-12-01
+City of London,0,2010-12-01
+Sutton,896,2016-06-01
+Barking and Dagenham,1449,2016-06-01
+Ealing,2422,2016-06-01
+Hackney,2625,2016-06-01
+Bromley,1607,2016-06-01
+Newham,2455,2016-06-01
+Croydon,2466,2016-06-01
+Bexley,1048,2016-06-01
+Hounslow,1863,2016-06-01
+Kingston upon Thames,793,2016-06-01
+Southwark,2681,2016-06-01
+Lambeth,2929,2016-06-01
+Haringey,2262,2016-06-01
+Barnet,2110,2016-06-01
+Havering,1483,2016-06-01
+Waltham Forest,1789,2016-06-01
+Brent,2316,2016-06-01
+Westminster,3785,2016-06-01
+Camden,2365,2016-06-01
+Kensington and Chelsea,1637,2016-06-01
+Tower Hamlets,2467,2016-06-01
+Richmond upon Thames,967,2016-06-01
+Hillingdon,2007,2016-06-01
+Lewisham,2122,2016-06-01
+Redbridge,1602,2016-06-01
+Islington,2487,2016-06-01
+Harrow,1153,2016-06-01
+Merton,973,2016-06-01
+Wandsworth,1962,2016-06-01
+Hammersmith and Fulham,1749,2016-06-01
+Enfield,1777,2016-06-01
+Greenwich,2007,2016-06-01
+City of London,8,2016-06-01
+Sutton,955,2014-07-01
+Barking and Dagenham,1338,2014-07-01
+Ealing,2303,2014-07-01
+Hackney,2147,2014-07-01
+Bromley,1802,2014-07-01
+Newham,2362,2014-07-01
+Croydon,2342,2014-07-01
+Bexley,1113,2014-07-01
+Hounslow,1693,2014-07-01
+Kingston upon Thames,732,2014-07-01
+Southwark,2550,2014-07-01
+Lambeth,2692,2014-07-01
+Haringey,1891,2014-07-01
+Barnet,1929,2014-07-01
+Havering,1186,2014-07-01
+Waltham Forest,1768,2014-07-01
+Brent,2140,2014-07-01
+Westminster,3806,2014-07-01
+Camden,2211,2014-07-01
+Kensington and Chelsea,1406,2014-07-01
+Tower Hamlets,2305,2014-07-01
+Richmond upon Thames,930,2014-07-01
+Hillingdon,2089,2014-07-01
+Lewisham,1966,2014-07-01
+Redbridge,1732,2014-07-01
+Islington,2015,2014-07-01
+Harrow,1034,2014-07-01
+Merton,927,2014-07-01
+Wandsworth,1882,2014-07-01
+Hammersmith and Fulham,1573,2014-07-01
+Enfield,1867,2014-07-01
+Greenwich,1872,2014-07-01
+City of London,6,2014-07-01
+Sutton,932,2016-05-01
+Barking and Dagenham,1555,2016-05-01
+Ealing,2451,2016-05-01
+Hackney,2376,2016-05-01
+Bromley,1708,2016-05-01
+Newham,2474,2016-05-01
+Croydon,2591,2016-05-01
+Bexley,998,2016-05-01
+Hounslow,1943,2016-05-01
+Kingston upon Thames,878,2016-05-01
+Southwark,2915,2016-05-01
+Lambeth,3089,2016-05-01
+Haringey,2399,2016-05-01
+Barnet,2159,2016-05-01
+Havering,1517,2016-05-01
+Waltham Forest,1780,2016-05-01
+Brent,2406,2016-05-01
+Westminster,3789,2016-05-01
+Camden,2501,2016-05-01
+Kensington and Chelsea,1624,2016-05-01
+Tower Hamlets,2519,2016-05-01
+Richmond upon Thames,1061,2016-05-01
+Hillingdon,2238,2016-05-01
+Lewisham,2180,2016-05-01
+Redbridge,1651,2016-05-01
+Islington,2168,2016-05-01
+Harrow,1105,2016-05-01
+Merton,1117,2016-05-01
+Wandsworth,2036,2016-05-01
+Hammersmith and Fulham,1904,2016-05-01
+Enfield,2049,2016-05-01
+Greenwich,1868,2016-05-01
+City of London,9,2016-05-01
+Sutton,824,2013-03-01
+Barking and Dagenham,1397,2013-03-01
+Ealing,2159,2013-03-01
+Hackney,2072,2013-03-01
+Bromley,1630,2013-03-01
+Newham,2194,2013-03-01
+Croydon,2309,2013-03-01
+Bexley,942,2013-03-01
+Hounslow,1712,2013-03-01
+Kingston upon Thames,797,2013-03-01
+Southwark,2622,2013-03-01
+Lambeth,2658,2013-03-01
+Haringey,1667,2013-03-01
+Barnet,2050,2013-03-01
+Havering,1348,2013-03-01
+Waltham Forest,1765,2013-03-01
+Brent,2053,2013-03-01
+Westminster,4577,2013-03-01
+Camden,2372,2013-03-01
+Kensington and Chelsea,1368,2013-03-01
+Tower Hamlets,2132,2013-03-01
+Richmond upon Thames,927,2013-03-01
+Hillingdon,1749,2013-03-01
+Lewisham,1900,2013-03-01
+Redbridge,1758,2013-03-01
+Islington,2007,2013-03-01
+Harrow,1057,2013-03-01
+Merton,966,2013-03-01
+Wandsworth,1867,2013-03-01
+Hammersmith and Fulham,1489,2013-03-01
+Enfield,1724,2013-03-01
+Greenwich,1491,2013-03-01
+City of London,7,2013-03-01
+Sutton,816,2015-09-01
+Barking and Dagenham,1375,2015-09-01
+Ealing,2182,2015-09-01
+Hackney,2077,2015-09-01
+Bromley,1732,2015-09-01
+Newham,2427,2015-09-01
+Croydon,2195,2015-09-01
+Bexley,966,2015-09-01
+Hounslow,1737,2015-09-01
+Kingston upon Thames,775,2015-09-01
+Southwark,2366,2015-09-01
+Lambeth,2692,2015-09-01
+Haringey,2014,2015-09-01
+Barnet,1926,2015-09-01
+Havering,1280,2015-09-01
+Waltham Forest,1600,2015-09-01
+Brent,2040,2015-09-01
+Westminster,3731,2015-09-01
+Camden,2368,2015-09-01
+Kensington and Chelsea,1745,2015-09-01
+Tower Hamlets,2262,2015-09-01
+Richmond upon Thames,873,2015-09-01
+Hillingdon,1891,2015-09-01
+Lewisham,1933,2015-09-01
+Redbridge,1526,2015-09-01
+Islington,2087,2015-09-01
+Harrow,1085,2015-09-01
+Merton,923,2015-09-01
+Wandsworth,1879,2015-09-01
+Hammersmith and Fulham,1560,2015-09-01
+Enfield,1790,2015-09-01
+Greenwich,1695,2015-09-01
+City of London,16,2015-09-01
+Sutton,942,2016-03-01
+Barking and Dagenham,1491,2016-03-01
+Ealing,2113,2016-03-01
+Hackney,2226,2016-03-01
+Bromley,1695,2016-03-01
+Newham,2381,2016-03-01
+Croydon,2199,2016-03-01
+Bexley,1065,2016-03-01
+Hounslow,1719,2016-03-01
+Kingston upon Thames,782,2016-03-01
+Southwark,2476,2016-03-01
+Lambeth,2721,2016-03-01
+Haringey,2219,2016-03-01
+Barnet,2106,2016-03-01
+Havering,1438,2016-03-01
+Waltham Forest,1760,2016-03-01
+Brent,2126,2016-03-01
+Westminster,3703,2016-03-01
+Camden,2290,2016-03-01
+Kensington and Chelsea,1531,2016-03-01
+Tower Hamlets,2178,2016-03-01
+Richmond upon Thames,859,2016-03-01
+Hillingdon,1851,2016-03-01
+Lewisham,1966,2016-03-01
+Redbridge,1651,2016-03-01
+Islington,2091,2016-03-01
+Harrow,1130,2016-03-01
+Merton,1124,2016-03-01
+Wandsworth,1872,2016-03-01
+Hammersmith and Fulham,1653,2016-03-01
+Enfield,1961,2016-03-01
+Greenwich,1836,2016-03-01
+City of London,12,2016-03-01
+Sutton,890,2014-03-01
+Barking and Dagenham,1418,2014-03-01
+Ealing,2114,2014-03-01
+Hackney,2143,2014-03-01
+Bromley,1640,2014-03-01
+Newham,2565,2014-03-01
+Croydon,2236,2014-03-01
+Bexley,1075,2014-03-01
+Hounslow,1584,2014-03-01
+Kingston upon Thames,809,2014-03-01
+Southwark,2416,2014-03-01
+Lambeth,2493,2014-03-01
+Haringey,1955,2014-03-01
+Barnet,1970,2014-03-01
+Havering,1207,2014-03-01
+Waltham Forest,1726,2014-03-01
+Brent,2054,2014-03-01
+Westminster,4349,2014-03-01
+Camden,2358,2014-03-01
+Kensington and Chelsea,1419,2014-03-01
+Tower Hamlets,2120,2014-03-01
+Richmond upon Thames,854,2014-03-01
+Hillingdon,1985,2014-03-01
+Lewisham,1772,2014-03-01
+Redbridge,1674,2014-03-01
+Islington,2151,2014-03-01
+Harrow,1089,2014-03-01
+Merton,957,2014-03-01
+Wandsworth,1620,2014-03-01
+Hammersmith and Fulham,1475,2014-03-01
+Enfield,1942,2014-03-01
+Greenwich,1605,2014-03-01
+City of London,4,2014-03-01
+Sutton,1119,2009-04-01
+Barking and Dagenham,1531,2009-04-01
+Ealing,2308,2009-04-01
+Hackney,1699,2009-04-01
+Bromley,1750,2009-04-01
+Newham,2329,2009-04-01
+Croydon,2574,2009-04-01
+Bexley,1207,2009-04-01
+Hounslow,1645,2009-04-01
+Kingston upon Thames,903,2009-04-01
+Southwark,2482,2009-04-01
+Lambeth,2614,2009-04-01
+Haringey,2161,2009-04-01
+Barnet,1873,2009-04-01
+Havering,1180,2009-04-01
+Waltham Forest,2025,2009-04-01
+Brent,1915,2009-04-01
+Westminster,3696,2009-04-01
+Camden,2515,2009-04-01
+Kensington and Chelsea,1460,2009-04-01
+Tower Hamlets,1860,2009-04-01
+Richmond upon Thames,908,2009-04-01
+Hillingdon,2038,2009-04-01
+Lewisham,2009,2009-04-01
+Redbridge,1649,2009-04-01
+Islington,2132,2009-04-01
+Harrow,1236,2009-04-01
+Merton,1186,2009-04-01
+Wandsworth,1860,2009-04-01
+Hammersmith and Fulham,1819,2009-04-01
+Enfield,1784,2009-04-01
+Greenwich,1714,2009-04-01
+City of London,0,2009-04-01
+Sutton,918,2015-02-01
+Barking and Dagenham,1165,2015-02-01
+Ealing,1888,2015-02-01
+Hackney,2086,2015-02-01
+Bromley,1577,2015-02-01
+Newham,2269,2015-02-01
+Croydon,2101,2015-02-01
+Bexley,851,2015-02-01
+Hounslow,1670,2015-02-01
+Kingston upon Thames,761,2015-02-01
+Southwark,2235,2015-02-01
+Lambeth,2419,2015-02-01
+Haringey,1805,2015-02-01
+Barnet,1822,2015-02-01
+Havering,1153,2015-02-01
+Waltham Forest,1504,2015-02-01
+Brent,1835,2015-02-01
+Westminster,3403,2015-02-01
+Camden,2238,2015-02-01
+Kensington and Chelsea,1367,2015-02-01
+Tower Hamlets,2036,2015-02-01
+Richmond upon Thames,753,2015-02-01
+Hillingdon,1832,2015-02-01
+Lewisham,1766,2015-02-01
+Redbridge,1469,2015-02-01
+Islington,2094,2015-02-01
+Harrow,1012,2015-02-01
+Merton,915,2015-02-01
+Wandsworth,1720,2015-02-01
+Hammersmith and Fulham,1450,2015-02-01
+Enfield,1660,2015-02-01
+Greenwich,1533,2015-02-01
+City of London,9,2015-02-01
+Sutton,867,2013-11-01
+Barking and Dagenham,1367,2013-11-01
+Ealing,2185,2013-11-01
+Hackney,2124,2013-11-01
+Bromley,1688,2013-11-01
+Newham,2460,2013-11-01
+Croydon,2273,2013-11-01
+Bexley,1050,2013-11-01
+Hounslow,1715,2013-11-01
+Kingston upon Thames,815,2013-11-01
+Southwark,2717,2013-11-01
+Lambeth,2614,2013-11-01
+Haringey,1853,2013-11-01
+Barnet,1987,2013-11-01
+Havering,1216,2013-11-01
+Waltham Forest,1784,2013-11-01
+Brent,2135,2013-11-01
+Westminster,4420,2013-11-01
+Camden,2096,2013-11-01
+Kensington and Chelsea,1444,2013-11-01
+Tower Hamlets,2227,2013-11-01
+Richmond upon Thames,850,2013-11-01
+Hillingdon,1746,2013-11-01
+Lewisham,1807,2013-11-01
+Redbridge,1816,2013-11-01
+Islington,2009,2013-11-01
+Harrow,1027,2013-11-01
+Merton,963,2013-11-01
+Wandsworth,1773,2013-11-01
+Hammersmith and Fulham,1684,2013-11-01
+Enfield,1876,2013-11-01
+Greenwich,1676,2013-11-01
+City of London,3,2013-11-01
+Sutton,877,2013-07-01
+Barking and Dagenham,1414,2013-07-01
+Ealing,2361,2013-07-01
+Hackney,2375,2013-07-01
+Bromley,1653,2013-07-01
+Newham,2574,2013-07-01
+Croydon,2537,2013-07-01
+Bexley,969,2013-07-01
+Hounslow,1733,2013-07-01
+Kingston upon Thames,747,2013-07-01
+Southwark,2848,2013-07-01
+Lambeth,2867,2013-07-01
+Haringey,1882,2013-07-01
+Barnet,1925,2013-07-01
+Havering,1310,2013-07-01
+Waltham Forest,1811,2013-07-01
+Brent,2032,2013-07-01
+Westminster,4758,2013-07-01
+Camden,2533,2013-07-01
+Kensington and Chelsea,1440,2013-07-01
+Tower Hamlets,2553,2013-07-01
+Richmond upon Thames,907,2013-07-01
+Hillingdon,1753,2013-07-01
+Lewisham,1984,2013-07-01
+Redbridge,1612,2013-07-01
+Islington,2028,2013-07-01
+Harrow,968,2013-07-01
+Merton,1054,2013-07-01
+Wandsworth,1924,2013-07-01
+Hammersmith and Fulham,1557,2013-07-01
+Enfield,1852,2013-07-01
+Greenwich,1662,2013-07-01
+City of London,8,2013-07-01
+Sutton,981,2014-10-01
+Barking and Dagenham,1296,2014-10-01
+Ealing,2293,2014-10-01
+Hackney,2213,2014-10-01
+Bromley,1708,2014-10-01
+Newham,2344,2014-10-01
+Croydon,2473,2014-10-01
+Bexley,1030,2014-10-01
+Hounslow,1863,2014-10-01
+Kingston upon Thames,833,2014-10-01
+Southwark,2705,2014-10-01
+Lambeth,2931,2014-10-01
+Haringey,2059,2014-10-01
+Barnet,2013,2014-10-01
+Havering,1311,2014-10-01
+Waltham Forest,1718,2014-10-01
+Brent,2184,2014-10-01
+Westminster,4029,2014-10-01
+Camden,2481,2014-10-01
+Kensington and Chelsea,1566,2014-10-01
+Tower Hamlets,2237,2014-10-01
+Richmond upon Thames,916,2014-10-01
+Hillingdon,2090,2014-10-01
+Lewisham,1846,2014-10-01
+Redbridge,1741,2014-10-01
+Islington,2211,2014-10-01
+Harrow,1109,2014-10-01
+Merton,1050,2014-10-01
+Wandsworth,1972,2014-10-01
+Hammersmith and Fulham,1722,2014-10-01
+Enfield,1876,2014-10-01
+Greenwich,1727,2014-10-01
+City of London,9,2014-10-01
+Sutton,813,2012-09-01
+Barking and Dagenham,1194,2012-09-01
+Ealing,2261,2012-09-01
+Hackney,2060,2012-09-01
+Bromley,1582,2012-09-01
+Newham,2433,2012-09-01
+Croydon,2373,2012-09-01
+Bexley,931,2012-09-01
+Hounslow,1802,2012-09-01
+Kingston upon Thames,829,2012-09-01
+Southwark,2349,2012-09-01
+Lambeth,2698,2012-09-01
+Haringey,1771,2012-09-01
+Barnet,1751,2012-09-01
+Havering,1212,2012-09-01
+Waltham Forest,1860,2012-09-01
+Brent,1892,2012-09-01
+Westminster,4341,2012-09-01
+Camden,2264,2012-09-01
+Kensington and Chelsea,1496,2012-09-01
+Tower Hamlets,2113,2012-09-01
+Richmond upon Thames,857,2012-09-01
+Hillingdon,1660,2012-09-01
+Lewisham,1855,2012-09-01
+Redbridge,1726,2012-09-01
+Islington,2047,2012-09-01
+Harrow,963,2012-09-01
+Merton,1028,2012-09-01
+Wandsworth,1984,2012-09-01
+Hammersmith and Fulham,1706,2012-09-01
+Enfield,1553,2012-09-01
+Greenwich,1494,2012-09-01
+City of London,14,2012-09-01
+Sutton,946,2009-11-01
+Barking and Dagenham,1350,2009-11-01
+Ealing,2313,2009-11-01
+Hackney,1769,2009-11-01
+Bromley,1656,2009-11-01
+Newham,2376,2009-11-01
+Croydon,2617,2009-11-01
+Bexley,1173,2009-11-01
+Hounslow,1600,2009-11-01
+Kingston upon Thames,828,2009-11-01
+Southwark,2445,2009-11-01
+Lambeth,2651,2009-11-01
+Haringey,1880,2009-11-01
+Barnet,2076,2009-11-01
+Havering,1281,2009-11-01
+Waltham Forest,2050,2009-11-01
+Brent,2243,2009-11-01
+Westminster,4093,2009-11-01
+Camden,2784,2009-11-01
+Kensington and Chelsea,1473,2009-11-01
+Tower Hamlets,1822,2009-11-01
+Richmond upon Thames,766,2009-11-01
+Hillingdon,1958,2009-11-01
+Lewisham,1969,2009-11-01
+Redbridge,1857,2009-11-01
+Islington,2202,2009-11-01
+Harrow,1193,2009-11-01
+Merton,1127,2009-11-01
+Wandsworth,1851,2009-11-01
+Hammersmith and Fulham,1746,2009-11-01
+Enfield,1756,2009-11-01
+Greenwich,1605,2009-11-01
+City of London,0,2009-11-01
+Sutton,999,2010-11-01
+Barking and Dagenham,1446,2010-11-01
+Ealing,2683,2010-11-01
+Hackney,1490,2010-11-01
+Bromley,1668,2010-11-01
+Newham,2786,2010-11-01
+Croydon,2554,2010-11-01
+Bexley,1172,2010-11-01
+Hounslow,1648,2010-11-01
+Kingston upon Thames,847,2010-11-01
+Southwark,2497,2010-11-01
+Lambeth,2825,2010-11-01
+Haringey,1847,2010-11-01
+Barnet,1961,2010-11-01
+Havering,1296,2010-11-01
+Waltham Forest,2055,2010-11-01
+Brent,2242,2010-11-01
+Westminster,3941,2010-11-01
+Camden,2981,2010-11-01
+Kensington and Chelsea,1516,2010-11-01
+Tower Hamlets,1977,2010-11-01
+Richmond upon Thames,823,2010-11-01
+Hillingdon,2059,2010-11-01
+Lewisham,2042,2010-11-01
+Redbridge,1926,2010-11-01
+Islington,2092,2010-11-01
+Harrow,1143,2010-11-01
+Merton,1116,2010-11-01
+Wandsworth,1822,2010-11-01
+Hammersmith and Fulham,1958,2010-11-01
+Enfield,1738,2010-11-01
+Greenwich,1515,2010-11-01
+City of London,0,2010-11-01
+Sutton,801,2013-12-01
+Barking and Dagenham,1159,2013-12-01
+Ealing,1984,2013-12-01
+Hackney,1929,2013-12-01
+Bromley,1626,2013-12-01
+Newham,2271,2013-12-01
+Croydon,2160,2013-12-01
+Bexley,1103,2013-12-01
+Hounslow,1523,2013-12-01
+Kingston upon Thames,728,2013-12-01
+Southwark,2413,2013-12-01
+Lambeth,2507,2013-12-01
+Haringey,1851,2013-12-01
+Barnet,1925,2013-12-01
+Havering,1233,2013-12-01
+Waltham Forest,1709,2013-12-01
+Brent,1915,2013-12-01
+Westminster,4445,2013-12-01
+Camden,2021,2013-12-01
+Kensington and Chelsea,1357,2013-12-01
+Tower Hamlets,1909,2013-12-01
+Richmond upon Thames,762,2013-12-01
+Hillingdon,1534,2013-12-01
+Lewisham,1706,2013-12-01
+Redbridge,1641,2013-12-01
+Islington,1787,2013-12-01
+Harrow,997,2013-12-01
+Merton,843,2013-12-01
+Wandsworth,1571,2013-12-01
+Hammersmith and Fulham,1480,2013-12-01
+Enfield,1859,2013-12-01
+Greenwich,1452,2013-12-01
+City of London,8,2013-12-01
+Sutton,864,2009-12-01
+Barking and Dagenham,1265,2009-12-01
+Ealing,2147,2009-12-01
+Hackney,1498,2009-12-01
+Bromley,1598,2009-12-01
+Newham,2314,2009-12-01
+Croydon,2362,2009-12-01
+Bexley,1048,2009-12-01
+Hounslow,1392,2009-12-01
+Kingston upon Thames,857,2009-12-01
+Southwark,2224,2009-12-01
+Lambeth,2314,2009-12-01
+Haringey,1809,2009-12-01
+Barnet,1815,2009-12-01
+Havering,1112,2009-12-01
+Waltham Forest,1919,2009-12-01
+Brent,1980,2009-12-01
+Westminster,4085,2009-12-01
+Camden,2406,2009-12-01
+Kensington and Chelsea,1411,2009-12-01
+Tower Hamlets,1633,2009-12-01
+Richmond upon Thames,728,2009-12-01
+Hillingdon,1805,2009-12-01
+Lewisham,1814,2009-12-01
+Redbridge,1640,2009-12-01
+Islington,1844,2009-12-01
+Harrow,1124,2009-12-01
+Merton,1016,2009-12-01
+Wandsworth,1610,2009-12-01
+Hammersmith and Fulham,1592,2009-12-01
+Enfield,1623,2009-12-01
+Greenwich,1386,2009-12-01
+City of London,0,2009-12-01
+Sutton,1028,2010-04-01
+Barking and Dagenham,1452,2010-04-01
+Ealing,2630,2010-04-01
+Hackney,1689,2010-04-01
+Bromley,1699,2010-04-01
+Newham,2552,2010-04-01
+Croydon,2452,2010-04-01
+Bexley,1118,2010-04-01
+Hounslow,1725,2010-04-01
+Kingston upon Thames,834,2010-04-01
+Southwark,2635,2010-04-01
+Lambeth,2620,2010-04-01
+Haringey,1909,2010-04-01
+Barnet,1894,2010-04-01
+Havering,1171,2010-04-01
+Waltham Forest,2031,2010-04-01
+Brent,2176,2010-04-01
+Westminster,4068,2010-04-01
+Camden,2702,2010-04-01
+Kensington and Chelsea,1521,2010-04-01
+Tower Hamlets,1937,2010-04-01
+Richmond upon Thames,844,2010-04-01
+Hillingdon,1993,2010-04-01
+Lewisham,2189,2010-04-01
+Redbridge,1582,2010-04-01
+Islington,2063,2010-04-01
+Harrow,1254,2010-04-01
+Merton,1143,2010-04-01
+Wandsworth,1921,2010-04-01
+Hammersmith and Fulham,1900,2010-04-01
+Enfield,1692,2010-04-01
+Greenwich,1661,2010-04-01
+City of London,0,2010-04-01
