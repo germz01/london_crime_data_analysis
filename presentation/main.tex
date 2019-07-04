@@ -104,5 +104,72 @@
                 }
             \end{figure}
         \end{frame}
+
+        \begin{frame}{Categorical Variables' Analysis}
+            \begin{itemize}
+                %\item lsoa\_code has 4835 unique values, of which E01004734 is the most frequent, appearing
+                %in the 0.070\% of the cropped dataset's records;
+                \item \textbf{borough} has 33 unique values, of which Lambeth is the most frequent,
+                appearing in the 4.47\% of the cropped dataset's records;
+                \item \textbf{major\_category} has 9 unique values, of which Theft and Handling is the most
+                frequent, appearing in the 33.25\% of the cropped dataset's records;
+                %\item minor\_category has 32 unique values, of which Other Theft is the most frequent,
+                %appearing in the 8.70\% of the cropped dataset's records;
+                \item \textbf{year} has 9 unique values, of which 2016 is the most frequent, appearing in
+                the 11.45\% of the cropped dataset's records;
+                \item \textbf{month} has 12 unique values, of which 7 is the most frequent, appearing in the
+                8.66\% of the cropped dataset's records;
+            \end{itemize}
+        \end{frame}
+
+        \begin{frame}{Crimes per Borough}
+            \begin{figure}
+                \centering
+                \resizebox{\textwidth}{!}{
+                    \includegraphics{../imgs/data_understanding/crimes_by_borough.pdf}
+                }
+            \end{figure}
+        \end{frame}
+
+        \begin{frame}{Crimes per Borough over Population Density}
+            \begin{figure}
+                \centering
+                \resizebox{\textwidth}{!}{
+                    \includegraphics{../imgs/data_understanding/crimes_by_borough_over_pop.pdf}
+                }
+            \end{figure}
+        \end{frame}
+
+        \begin{frame}{Crimes per Major Category}
+            \begin{figure}
+                \centering
+                \resizebox{\textwidth}{!}{
+                    \includegraphics{../imgs/data_understanding/crimes_by_borough_major.pdf}
+                }
+            \end{figure}
+        \end{frame}
+
+        \begin{frame}{Major Category Crimes per Year}
+            \begin{figure}
+                \centering
+                \resizebox{\textwidth}{!}{
+                    \includegraphics{../imgs/data_understanding/major_category_per_year.pdf}
+                }
+            \end{figure}
+        \end{frame}
+
+        \begin{frame}{Correlation Analysis}
+            \begin{figure}
+                \centering
+                \resizebox{\textwidth}{!}{
+                    \includegraphics{../imgs/data_understanding/correlation_analysis.png}
+                }
+            \end{figure}
+        \end{frame}
     % section data_understanding (end)
+
+    \section{Cluster Analysis} % (fold)
+    \label{sec:cluster_analysis}
+
+    % section cluster_analysis (end)
 \end{document}
