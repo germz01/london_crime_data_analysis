@@ -2,7 +2,7 @@
 
 \usepackage[ruled,linesnumbered,titlenotnumbered]{algorithm2e}
 \usepackage{color}
-\usepackage{hyperref}
+\usepackage{hyperref,caption,subcaption}
 
 \newcommand*{\email}[1]{\href{mailto:#1}{\nolinkurl{#1}} }
 
@@ -170,6 +170,85 @@
 
     \section{Cluster Analysis} % (fold)
     \label{sec:cluster_analysis}
+        \begin{frame}{Introduction}
+            I have decided to enrich the informations provided with the data understaning by searching for
+            possible \textbf{cluster-like structures} in the \textbf{time series} extracted from the main
+            dataset, that is, hoping to discover the similarities (or dissimilarities) among the series
+            describing the criminal activities from 2008 to 2016.
+        \end{frame}
 
+        \begin{frame}{Choice of the Algorithms}
+            I have used three popular clustering algorithms, that is, the \textbf{KMeans algorithm}, the
+            \textbf{Hierarchical Agglomerative algorithm} and the \textbf{DBSCAN}. The three algorithms were
+            adapted depending on the different series they were applied on.
+        \end{frame}
+
+        \begin{frame}{By-Year Series: Hierarchical Agglomerative Clustering}
+            \begin{figure}
+                \centering
+                \resizebox{\textwidth}{!}{
+                    \includegraphics{../imgs/clustering/by_year_hierarchical.pdf}
+                }
+            \end{figure}
+        \end{frame}
+
+        \begin{frame}{By-Year Series: KMeans Algorithm and DBSCAN Clustering}
+            \begin{figure}
+                \centering
+                \begin{subfigure}{0.20\textwidth}
+                    \resizebox{\textwidth}{!}{
+                        \includegraphics{../imgs/clustering/by_year_kmeans.png}
+                    }
+                    \caption{KMeans}
+                \end{subfigure}
+                \begin{subfigure}{0.20\textwidth}
+                    \resizebox{\textwidth}{!}{
+                        \includegraphics{../imgs/clustering/by_year_dbscan.png}
+                    }
+                    \caption{DBSCAN}
+                \end{subfigure}
+            \end{figure}
+        \end{frame}
+
+        \begin{frame}{By-Borough Series: Hierarchical Agglomerative Clustering}
+            \begin{figure}
+                \centering
+                \resizebox{0.5\textwidth}{!}{
+                    \includegraphics{../imgs/clustering/by_borough_hierarchical.pdf}
+                }
+            \end{figure}
+        \end{frame}
+
+        \begin{frame}{By-Major Category Series: Hierarchical Agglomerative Clustering}
+            \begin{figure}
+                \centering
+                \resizebox{0.7\textwidth}{!}{
+                    \includegraphics{../imgs/clustering/by_major_category_hierarchical.pdf}
+                }
+            \end{figure}
+        \end{frame}
+
+        \begin{frame}{By-Major Category Series: KMeans Algorithm and DBSCAN Clustering}
+            \begin{figure}
+                \centering
+                \begin{subfigure}{0.30\textwidth}
+                    \resizebox{\textwidth}{!}{
+                        \includegraphics{../imgs/clustering/by_major_category_kmeans.png}
+                    }
+                    \caption{KMeans}
+                \end{subfigure}
+                \begin{subfigure}{0.30\textwidth}
+                    \resizebox{\textwidth}{!}{
+                        \includegraphics{../imgs/clustering/by_major_category_dbscan.png}
+                    }
+                    \caption{DBSCAN}
+                \end{subfigure}
+            \end{figure}
+        \end{frame}
     % section cluster_analysis (end)
+
+    \section{Forecasting} % (fold)
+    \label{sec:forecasting}
+
+    % section forecasting (end)
 \end{document}
