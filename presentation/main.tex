@@ -218,17 +218,59 @@
             \end{itemize}
         \end{frame}
 
-        \begin{frame}{By-Borough Series: Hierarchical Agglomerative Clustering}
+        \begin{frame}{By-Borough Series: Hierarchical Agglomerative Clustering(1)}
             \begin{figure}
                 \centering
-                \resizebox{0.5\textwidth}{!}{
-                    \includegraphics{../imgs/clustering/by_borough_hierarchical.pdf}
+                \resizebox{\textwidth}{!}{
+                    \includegraphics{../imgs/clustering/by_borough_hierarchical_euclidean.pdf}
                 }
             \end{figure}
         \end{frame}
 
-        \begin{frame}{By-Borough Series: Conclusions}
+        \begin{frame}{By-Borough Series: Hierarchical Agglomerative Clustering(2)}
+            \begin{figure}
+                \centering
+                \resizebox{\textwidth}{!}{
+                    \includegraphics{../imgs/clustering/by_borough_hierarchical_dtw.pdf}
+                }
+            \end{figure}
+        \end{frame}
 
+        \begin{frame}{By-Borough Series: KMeans Algorithm and DBSCAN Clustering}
+            \begin{figure}
+                \centering
+                \begin{subfigure}{0.20\textwidth}
+                    \resizebox{\textwidth}{!}{
+                        \includegraphics{../imgs/clustering/by_borough_kmeans_1.png}
+                    }
+                    \caption{KMeans 1}
+                \end{subfigure}
+                \begin{subfigure}{0.20\textwidth}
+                    \resizebox{\textwidth}{!}{
+                        \includegraphics{../imgs/clustering/by_borough_kmeans_2.png}
+                    }
+                    \caption{KMeans 2}
+                \end{subfigure}
+                \begin{subfigure}{0.20\textwidth}
+                    \resizebox{\textwidth}{!}{
+                        \includegraphics{../imgs/clustering/by_borough_dbscan_1.png}
+                    }
+                    \caption{DBSCAN 1}
+                \end{subfigure}
+                \begin{subfigure}{0.20\textwidth}
+                    \resizebox{\textwidth}{!}{
+                        \includegraphics{../imgs/clustering/by_borough_dbscan_2.png}
+                    }
+                    \caption{DBSCAN 2}
+                \end{subfigure}
+            \end{figure}
+        \end{frame}
+
+        \begin{frame}{By-Borough Series: Conclusions}
+            \begin{itemize}
+                \item The series representing Westminster and City of London are the two extremes among
+                the boroughs, hence they are clustered by the themself in dinstinct clusters;
+            \end{itemize}
         \end{frame}
 
         \begin{frame}{By-Major Category Series: Hierarchical Agglomerative Clustering}
@@ -361,6 +403,11 @@
                     \includegraphics{../imgs/forecasting/borough_comparison_arma.pdf}
                 }
             \end{figure}
+        \end{frame}
+
+        \begin{frame}{Conclusions}
+            In general, the \textbf{Autoregressive model} seems to perform better than the other models in
+            forecasting the progression of criminal activities.
         \end{frame}
     % section forecasting (end)
 \end{document}
