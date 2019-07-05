@@ -29,8 +29,8 @@
     \section{Introduction} % (fold)
     \label{sec:introduction}
         \begin{frame}{The analysis' purpose}
-            To discover the patterns among the criminal activities in the London metropolitan area in a
-            distinct window of time.
+            To \textbf{discover} the clusters among the criminal activities in the London metropolitan area
+            in a distinct window of time and to \textbf{forecast} a possible development for future crimes.
         \end{frame}
 
         \begin{frame}{The Dataset(1)}
@@ -82,7 +82,6 @@
                 \resizebox{\textwidth}{!}{
                     \includegraphics{../imgs/data_understanding/crimes_per_year.pdf}
                 }
-                \caption{Crime's progress over the years}
             \end{figure}
         \end{frame}
 
@@ -92,7 +91,6 @@
                 \resizebox{\textwidth}{!}{
                     \includegraphics{../imgs/data_understanding/crimes_per_month.pdf}
                 }
-                \caption{Crime's progress over the months}
             \end{figure}
         \end{frame}
 
@@ -210,6 +208,16 @@
             \end{figure}
         \end{frame}
 
+        \begin{frame}{By-Year Series: Conclusions}
+            \begin{itemize}
+                \item the series representing years 2013 and 2014 are the least dense of criminal
+                activities, hence are clustered together;
+                \item the series representing years 2008 and 2012 are the most dense of criminal activities,
+                hence are clustered together;
+                \item the remaining series are splitted into two distinct clusters;
+            \end{itemize}
+        \end{frame}
+
         \begin{frame}{By-Borough Series: Hierarchical Agglomerative Clustering}
             \begin{figure}
                 \centering
@@ -217,6 +225,10 @@
                     \includegraphics{../imgs/clustering/by_borough_hierarchical.pdf}
                 }
             \end{figure}
+        \end{frame}
+
+        \begin{frame}{By-Borough Series: Conclusions}
+
         \end{frame}
 
         \begin{frame}{By-Major Category Series: Hierarchical Agglomerative Clustering}
@@ -245,10 +257,60 @@
                 \end{subfigure}
             \end{figure}
         \end{frame}
+
+        \begin{frame}{By-Major Category Series: Conclusions}
+            \begin{itemize}
+                \item Fraud or Forgery, Sexual Offences, Other Notifiable Offences and Robbery are the least
+                popular types of crimes, hence their series are clustered together;
+                \item Theft and Handling and Violence Against the Person are the most popular types of
+                crimes, hence they form distinct clusters for themeself;
+                \item the other categories are clustered together;
+            \end{itemize}
+        \end{frame}
     % section cluster_analysis (end)
 
     \section{Forecasting} % (fold)
     \label{sec:forecasting}
+        \begin{frame}{The Models - Autoregressive Model of order $p$}
+            Represent by the formula
 
+            \begin{equation*}
+                X_t = c + \sum_{i = 1}^{p}\varphi_iX_{t - i} + \varepsilon_t
+            \end{equation*}
+
+            where $\varphi_{1}, \ldots , \varphi_{p}$ are the parameters of the model, $c$ is a constant,
+            and $\varepsilon _{t}$ is white noise.
+        \end{frame}
+
+        \begin{frame}{The Models - Autoregressive-Moving-Average Model of orders $p$ and $q$}
+            Represented by the formula
+
+            \begin{equation*}
+                X_t = c + \sum_{i = 1}^{p}\varphi_iX_{t - i} + \varepsilon_t + \sum_{i = 1}^{q}\theta_i
+                \varepsilon_{t - i}
+            \end{equation*}
+
+            where $p$ and $q$ are, respectively, the autoregressive terms and the moving-average terms,
+            $\varphi_{1}, \ldots , \varphi_{p}$ are the parameters of the autoregressive model,
+            $\theta_1, \ldots, \theta_q$ are the parameters of the moving-average model and
+            $\varepsilon_t, \varepsilon_{t - 1}, \ldots$ are white noise error terms.
+        \end{frame}
+
+        \begin{frame}{The Models - Autoregressive-Integrated-Average Model of orders $p$, $q$ and $d$}
+            Represented by the formula
+
+            \begin{equation*}
+                \left ( 1 - \sum_{i=1}^p\varphi_iL^i\right )(1 - L)^dX_t =
+                \left ( 1 + \sum_{i = 1}^{q}\theta_iL^i \right ) \varepsilon_t
+            \end{equation*}
+
+            where $L$ is the lag operator, $\varphi_{1}, \ldots , \varphi_{p}$ are the parameters of the
+            autoregressive model, $\theta_1, \ldots, \theta_q$ are the parameters of the moving-average
+            model and $\varepsilon _{t}$ is white noise.
+        \end{frame}
+
+        \begin{frame}{General Comparison}
+
+        \end{frame}
     % section forecasting (end)
 \end{document}
