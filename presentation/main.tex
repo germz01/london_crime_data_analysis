@@ -11,7 +11,8 @@
 \title{Big Data Analytics: London Crime Data Analysis}
 \author{Gianmarco Ricciarelli\inst{1}}
 \institute{\inst{1}University of Pisa, \\
-           \email{gianmarcoricciarelli@gmail.com}}
+           \email{gianmarcoricciarelli@gmail.com}, \\
+           GitHub: https://github.com/germz01}
 
 \date{}
 
@@ -64,15 +65,10 @@
 
     \section{Data Understanding} % (fold)
     \label{sec:data_understanding}
-        \begin{frame}{Numeric Variables' Analysis(1)}
-            \textbf{value} is the only numeric variables in the dataset, it represents the monthly reported
-            count of categorical crime in given borough and has 247 unique values. Its minimum value is 0 and
-            its maximum value is 309, the mode is 0, which appears in the 74.56\% of the dataset's samples.
-        \end{frame}
-
-        \begin{frame}{Numeric Variables' Analysis(2)}
-            Since 10,071,505, that is, the 74.56\% of the dataset's samples have the variable value eguals to
-            0, we can conclude that, on a superficial level, the window of time from 2008 to 2016 wasn't too
+        \begin{frame}{Numeric Variables' Analysis}
+            \textbf{value} is the only numeric variables in the dataset, its \textbf{mode} is 0,
+            which appears in the 74.56\% of the dataset's samples (\textbf{10,071,505 records}).
+            We can conclude that, on a superficial level, the window of time from 2008 to 2016 wasn't too
             dense of criminal activities.
         \end{frame}
 
@@ -90,15 +86,6 @@
                 \centering
                 \resizebox{\textwidth}{!}{
                     \includegraphics{../imgs/data_understanding/crimes_per_month.pdf}
-                }
-            \end{figure}
-        \end{frame}
-
-        \begin{frame}{Most Dangerous Years}
-            \begin{figure}
-                \centering
-                \resizebox{\textwidth}{!}{
-                    \includegraphics{../imgs/data_understanding/most_dangerous_years.pdf}
                 }
             \end{figure}
         \end{frame}
@@ -331,43 +318,56 @@
 
     \section{Forecasting} % (fold)
     \label{sec:forecasting}
-        \begin{frame}{The Models - Autoregressive Model of order $p$}
-            Represent by the formula
+        \begin{frame}{The Models - ARIMA Family Models}
+            Represent by the formulas:
 
-            \begin{equation*}
-                X_t = c + \sum_{i = 1}^{p}\varphi_iX_{t - i} + \varepsilon_t
-            \end{equation*}
-
-            where $\varphi_{1}, \ldots , \varphi_{p}$ are the parameters of the model, $c$ is a constant,
-            and $\varepsilon _{t}$ is white noise.
-        \end{frame}
-
-        \begin{frame}{The Models - Autoregressive-Moving-Average Model of orders $p$ and $q$}
-            Represented by the formula
-
-            \begin{equation*}
-                X_t = c + \sum_{i = 1}^{p}\varphi_iX_{t - i} + \varepsilon_t + \sum_{i = 1}^{q}\theta_i
-                \varepsilon_{t - i}
-            \end{equation*}
-
-            where $p$ and $q$ are, respectively, the autoregressive terms and the moving-average terms,
-            $\varphi_{1}, \ldots , \varphi_{p}$ are the parameters of the autoregressive model,
-            $\theta_1, \ldots, \theta_q$ are the parameters of the moving-average model and
-            $\varepsilon_t, \varepsilon_{t - 1}, \ldots$ are white noise error terms.
-        \end{frame}
-
-        \begin{frame}{The Models - Autoregressive-Integrated-Average Model of orders $p$, $q$ and $d$}
-            Represented by the formula
-
-            \begin{equation*}
-                \left ( 1 - \sum_{i=1}^p\varphi_iL^i\right )(1 - L)^dX_t =
+            \begin{align*}
+                &\text{\textbf{AR Model}:} \quad X_t = c + \sum_{i = 1}^{p}\varphi_iX_{t - i} + \varepsilon_t \\
+                &\text{\textbf{ARMA Model}:}\quad X_t = c + \sum_{i = 1}^{p}\varphi_iX_{t - i} + \varepsilon_t + \sum_{i = 1}^{q}\theta_i
+                \varepsilon_{t - i} \\
+                &\text{\textbf{ARIMA Model}} \quad \left ( 1 - \sum_{i=1}^p\varphi_iL^i\right )(1 - L)^dX_t =
                 \left ( 1 + \sum_{i = 1}^{q}\theta_iL^i \right ) \varepsilon_t
-            \end{equation*}
+            \end{align*}
 
-            where $L$ is the lag operator, $\varphi_{1}, \ldots , \varphi_{p}$ are the parameters of the
-            autoregressive model, $\theta_1, \ldots, \theta_q$ are the parameters of the moving-average
-            model and $\varepsilon _{t}$ is white noise.
         \end{frame}
+
+        % \begin{frame}{The Models - Autoregressive Model of order $p$}
+        %     Represent by the formula
+
+        %     \begin{equation*}
+        %         X_t = c + \sum_{i = 1}^{p}\varphi_iX_{t - i} + \varepsilon_t
+        %     \end{equation*}
+
+        %     where $\varphi_{1}, \ldots , \varphi_{p}$ are the parameters of the model, $c$ is a constant,
+        %     and $\varepsilon _{t}$ is white noise.
+        % \end{frame}
+
+        % \begin{frame}{The Models - Autoregressive-Moving-Average Model of orders $p$ and $q$}
+        %     Represented by the formula
+
+        %     \begin{equation*}
+        %         X_t = c + \sum_{i = 1}^{p}\varphi_iX_{t - i} + \varepsilon_t + \sum_{i = 1}^{q}\theta_i
+        %         \varepsilon_{t - i}
+        %     \end{equation*}
+
+        %     where $p$ and $q$ are, respectively, the autoregressive terms and the moving-average terms,
+        %     $\varphi_{1}, \ldots , \varphi_{p}$ are the parameters of the autoregressive model,
+        %     $\theta_1, \ldots, \theta_q$ are the parameters of the moving-average model and
+        %     $\varepsilon_t, \varepsilon_{t - 1}, \ldots$ are white noise error terms.
+        % \end{frame}
+
+        % \begin{frame}{The Models - Autoregressive-Integrated-Average Model of orders $p$, $q$ and $d$}
+        %     Represented by the formula
+
+        %     \begin{equation*}
+        %         \left ( 1 - \sum_{i=1}^p\varphi_iL^i\right )(1 - L)^dX_t =
+        %         \left ( 1 + \sum_{i = 1}^{q}\theta_iL^i \right ) \varepsilon_t
+        %     \end{equation*}
+
+        %     where $L$ is the lag operator, $\varphi_{1}, \ldots , \varphi_{p}$ are the parameters of the
+        %     autoregressive model, $\theta_1, \ldots, \theta_q$ are the parameters of the moving-average
+        %     model and $\varepsilon _{t}$ is white noise.
+        % \end{frame}
 
         \begin{frame}{Forecasting of \# of Crimes over the city}
             \begin{figure}
